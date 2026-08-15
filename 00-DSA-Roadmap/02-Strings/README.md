@@ -2,18 +2,7 @@
 
 This section covers important String concepts and interview problems in Java. The problems are organized by patterns so that the focus is on understanding problem-solving techniques rather than only collecting solutions.
 
-## Structure
 
-02-Strings/
-│
-├── 01-Basics/
-├── 02-String-Manipulation/
-├── 03-Hashing/
-├── 04-Two-Pointers/
-├── 05-Sliding-Window/
-├── 06-String-Searching/
-├── 07-Stack-Based/
-└── 08-Interview-Problems/
 
 ## 01. Basics
 
