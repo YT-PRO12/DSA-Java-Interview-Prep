@@ -17,23 +17,21 @@ interview preparation.
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | Arrays | In Progress |
-| 02 | Strings | Upcoming |
-| 03 | Hashing | Upcoming |
-| 04 | Two Pointers | Upcoming |
-| 05 | Sliding Window | Upcoming |
-| 06 | Binary Search | Upcoming |
-| 07 | Linked List | Upcoming |
-| 08 | Stack & Queue | Upcoming |
-| 09 | Recursion & Backtracking | Upcoming |
-| 10 | Binary Trees | Upcoming |
-| 11 | Binary Search Trees | Upcoming |
-| 12 | Heap & Priority Queue | Upcoming |
-| 13 | Greedy | Upcoming |
-| 14 | Graphs | Upcoming |
-| 15 | Dynamic Programming | Upcoming |
-| 16 | Trie | Upcoming |
-| 17 | Interview Patterns | Upcoming |
+| 01 | Arrays |  DONE  |
+| 02 | Strings | DONE ||
+| 03 | Sliding Window | In progress |
+| 04 | Binary Search | Upcoming |
+| 05 | Linked List | Upcoming |
+| 06 | Stack & Queue | Upcoming |
+| 07 | Recursion & Backtracking | Upcoming |
+| 08 | Binary Trees | Upcoming |
+| 09 | Binary Search Trees | Upcoming |
+| 10 | Heap & Priority Queue | Upcoming |
+| 11 | Greedy | Upcoming |
+| 12 | Graphs | Upcoming |
+| 13 | Dynamic Programming | Upcoming |
+| 14 | Trie | Upcoming |
+| 15 | Interview Patterns | Upcoming |
 
 ## Problem Format
 
