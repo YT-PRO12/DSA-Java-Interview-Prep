@@ -1,0 +1,25 @@
+========================================
+      LONGEST REPEATING CHARACTER REPLACEMENT
+========================================
+
+Problem:
+Find the longest substring that can be made to contain
+the same character after at most K replacements.
+
+Input:
+String = "AABABBA"
+K = 1
+
+Output:
+4
+
+Explanation:
+One possible substring is:
+
+"AABA"
+
+Replace B with A:
+
+"AAAA"
+
+Length = 4
