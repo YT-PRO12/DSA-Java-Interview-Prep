@@ -1,0 +1,14 @@
+Problem: Find Largest Element in an Array
+
+Input:
+[10, 5, 20, 8, 15]
+
+Output:
+Largest element: 20
+
+Explanation:
+The algorithm scans the array once while keeping track
+of the largest element found so far.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
