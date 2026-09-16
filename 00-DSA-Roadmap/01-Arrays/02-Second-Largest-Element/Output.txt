@@ -1,0 +1,10 @@
+Problem: Find Second Largest Element in an Array
+
+Input:
+[10, 5, 20, 8, 15]
+
+Output:
+Second largest element: 15
+
+Time Complexity: O(n)
+Space Complexity: O(1)
