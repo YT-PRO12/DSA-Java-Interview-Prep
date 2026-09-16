@@ -1,0 +1,20 @@
+========================================
+             FRUIT INTO BASKETS
+========================================
+
+Problem:
+Find the maximum number of fruits that can be
+collected using at most two different fruit types.
+
+Input:
+Fruits = [1, 2, 1, 2, 3]
+
+Output:
+4
+
+Explanation:
+The longest valid window is:
+
+[1, 2, 1, 2]
+
+Number of fruits = 4

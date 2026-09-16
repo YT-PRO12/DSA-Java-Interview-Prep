@@ -1,0 +1,20 @@
+========================================
+          MAXIMUM AVERAGE SUBARRAY I
+========================================
+
+Problem:
+Find the maximum average of any subarray of size K.
+
+Input:
+Array = [1, 12, -5, -6, 50, 3]
+K = 4
+
+Output:
+12.75
+
+Explanation:
+The subarray [-6, 50, 3, 12] is not contiguous in this input.
+The maximum-sum window is [12, -5, -6, 50].
+
+Sum = 51
+Average = 51 / 4 = 12.75
