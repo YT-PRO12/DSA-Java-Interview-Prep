@@ -19,10 +19,10 @@ interview preparation.
 |---|---|---|
 | 01 | Arrays |  DONE  |
 | 02 | Strings | DONE ||
-| 03 | Sliding Window | In progress |
-| 04 | Binary Search | Upcoming |
-| 05 | Linked List | Upcoming |
-| 06 | Stack & Queue | Upcoming |
+| 03 | Sliding Window | DONE |
+| 04 | Binary Search | DONE |
+| 05 | Linked List | DONE |
+| 06 | Stack & Queue | ONGOING |
 | 07 | Recursion & Backtracking | Upcoming |
 | 08 | Binary Trees | Upcoming |
 | 09 | Binary Search Trees | Upcoming |
