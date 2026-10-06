@@ -16,6 +16,10 @@ A focused Java interview-preparation set covering core stack patterns, monotonic
 | 8 | 71 | Simplify Path | Medium | Stack + strings |
 | 9 | 394 | Decode String | Medium | Nested stack processing |
 | 10 | 84 | Largest Rectangle in Histogram | Hard | Monotonic stack |
+| 11 | 225 | Implement Stack using Queues | Easy | Queue simulation |
+| 12 | 239 | Sliding Window Maximum | Hard | Monotonic deque |
+| 13 | 622 | Design Circular Queue | Medium | Circular buffer |
+| 14 | 641 | Design Circular Deque | Medium | Circular buffer / deque |
 
 ## Pattern Progression
 
@@ -33,6 +37,12 @@ Expression Evaluation
 Nested Parsing
     ↓
 Histogram Optimization
+    ↓
+Queue Simulation
+    ↓
+Circular Queue / Deque Design
+    ↓
+Monotonic Deque
 ```
 
 Each problem folder contains a clean Java solution written in LeetCode-compatible format.
