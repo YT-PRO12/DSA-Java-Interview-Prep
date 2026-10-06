@@ -1,60 +1,40 @@
 # DSA Java Interview Prep
 
-A structured Data Structures and Algorithms journey in Java focused on
-problem solving, algorithmic thinking, coding patterns, and technical
-interview preparation.
+A structured Java repository for data structures, algorithms, and technical interview preparation.
 
-## Goals
+## Repository Goals
 
-- Build strong problem-solving skills
-- Understand important DSA patterns
-- Implement algorithms in Java
-- Improve time and space complexity analysis
-- Prepare for coding interviews and placements
-- Maintain a structured record of my DSA progress
+- Build strong problem-solving fundamentals in Java
+- Practice recognizable interview patterns rather than isolated questions
+- Keep solutions organized by topic and official LeetCode ID
+- Preserve fundamentals that do not map directly to a LeetCode problem
+- Maintain readable code, notes, and complexity-focused explanations
 
-## Topics
+## Roadmap
 
-| # | Topic | Status |
-|---|---|---|
-| 01 | Arrays |  DONE  |
-| 02 | Strings | DONE ||
-| 03 | Sliding Window | DONE |
-| 04 | Binary Search | DONE |
-| 05 | Linked List | DONE |
-| 06 | Stack & Queue | ONGOING |
-| 07 | Recursion & Backtracking | Upcoming |
-| 08 | Binary Trees | Upcoming |
-| 09 | Binary Search Trees | Upcoming |
-| 10 | Heap & Priority Queue | Upcoming |
-| 11 | Greedy | Upcoming |
-| 12 | Graphs | Upcoming |
-| 13 | Dynamic Programming | Upcoming |
-| 14 | Trie | Upcoming |
-| 15 | Interview Patterns | Upcoming |
+| # | Topic | Focus |
+|---:|---|---|
+| 01 | Arrays | hashing, two pointers, prefix sums, intervals, matrices |
+| 02 | Strings | frequency, hashing, parsing, sliding window |
+| 03 | Sliding Window | fixed, variable, frequency, monotonic deque |
+| 04 | Binary Search | classic search, rotated arrays, search on answer |
+| 05 | Linked List | pointer manipulation, cycles, reversal, reordering |
+| 06 | Stacks & Queues | monotonic structures, design, parsing, simulation |
 
-## Problem Format
+## Naming Convention
 
-For each important problem, I aim to document:
+```text
+XXXX-Problem-Name
+```
 
-- Problem statement
-- Approach
-- Brute-force solution
-- Optimized solution
-- Java implementation
-- Time complexity
-- Space complexity
-- Key learning
+The four-digit prefix is the official LeetCode problem number. Exercises without an exact LeetCode equivalent are stored under `Fundamentals/`.
 
-## Language
+## Engineering Style
 
-Java
+- Java-first solutions
+- Topic-based organization
+- Descriptive commit messages
+- Complexity-aware notes
+- Clean Git branching and pull-request workflow
 
-## Author
-
-**Yatharth Goyal**
-
-B.Tech Information Technology Student
-
-Interested in Data Science, Machine Learning, Artificial Intelligence,
-and Software Development.
+> The repository history remains the source of truth for when work was originally added. Structural refactors only improve organization; they do not rewrite or backdate prior work.
