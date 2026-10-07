@@ -20,6 +20,7 @@ A structured Java repository for data structures, algorithms, and technical inte
 | 04 | Binary Search | classic search, rotated arrays, search on answer |
 | 05 | Linked List | pointer manipulation, cycles, reversal, reordering |
 | 06 | Stacks & Queues | monotonic structures, design, parsing, simulation |
+| 07 | Trees | DFS, BFS, recursion, height, balance, diameter |
 
 ## Naming Convention
 
