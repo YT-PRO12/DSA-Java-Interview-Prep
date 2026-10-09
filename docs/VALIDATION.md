@@ -1,7 +1,7 @@
 # Verification Report
 
-**Audit date:** 2026-10-09  
-**Environment:** Python 3.12; OpenJDK 17.0.20.1  
+**Audit date:** 2026-10-09
+**Environment:** Python 3.12; OpenJDK 17.0.20.1
 **Scope:** The roadmap restructuring and 28 newly prepared Java examples.
 
 ## Commands

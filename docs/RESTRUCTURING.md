@@ -1,7 +1,7 @@
 # Roadmap Restructuring Audit
 
-**Date:** 2026-10-09  
-**Baseline:** `74cac98400ed27133e85d1157ed8097b05fbe3fc`  
+**Date:** 2026-10-09
+**Baseline:** `74cac98400ed27133e85d1157ed8097b05fbe3fc`
 **Working branch:** `refactor/dsa-roadmap-architecture`
 
 ## Preservation
