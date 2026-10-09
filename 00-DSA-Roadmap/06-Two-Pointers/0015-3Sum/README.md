@@ -33,8 +33,8 @@ Output:
 
 ## Complexity
 
-- Time Complexity: O(n²)
-- Space Complexity: O(1) auxiliary space, excluding the output.
+- Time Complexity: O(nÂ²)
+- Space Complexity: O(log n) sorting stack for the primitive-array sort, excluding the output.
 
 ## Interview Pattern
 

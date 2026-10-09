@@ -38,3 +38,10 @@ true
 ## Interview Pattern
 
 Stack / Parentheses Matching
+
+## Preserved implementations
+
+One canonical problem folder contains the original variants. Compile each Java file separately; these are existing implementations, not additional solved problems.
+
+- [Solution.java](Solution.java)
+- [ValidParentheses.java](ValidParentheses.java)

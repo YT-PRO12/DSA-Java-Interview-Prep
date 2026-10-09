@@ -13,11 +13,11 @@ Use two pointers:
 
 The area between two lines is:
 
-`width × minimum height`
+`width Ã— minimum height`
 
 So:
 
-`area = (right - left) × min(height[left], height[right])`
+`area = (right - left) Ã— min(height[left], height[right])`
 
 After calculating the current area, move the pointer with the smaller height.
 

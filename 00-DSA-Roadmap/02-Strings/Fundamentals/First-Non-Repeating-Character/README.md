@@ -38,3 +38,7 @@ Where `k` is the number of unique characters.
 ## Interview Pattern
 
 HashMap / Frequency Counting
+
+## Contract note
+
+This exercise returns the character itself (or the NUL character when none exists). LeetCode 387 requires an index (or -1), so this example is cataloged as a fundamental.

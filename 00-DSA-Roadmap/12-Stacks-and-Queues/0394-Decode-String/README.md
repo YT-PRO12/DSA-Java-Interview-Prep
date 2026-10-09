@@ -39,3 +39,10 @@ accaccacc
 ## Interview Pattern
 
 Stack / Nested String Processing
+
+## Preserved implementations
+
+One canonical problem folder contains the original variants. Compile each Java file separately; these are existing implementations, not additional solved problems.
+
+- [DecodeString.java](DecodeString.java)
+- [Solution.java](Solution.java)

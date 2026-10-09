@@ -1,0 +1,470 @@
+[
+  {
+    "directory": "01-Arrays",
+    "title": "Arrays",
+    "overview": "Practice contiguous storage, scans, in-place updates, and matrix transformations before moving to specialized patterns.",
+    "concepts": [
+      "Traversal and indexing",
+      "Running extrema and majority voting",
+      "Kadane’s algorithm",
+      "Matrix markers and rotation"
+    ],
+    "progression": [
+      "Scan and search",
+      "Track running state",
+      "Modify in place",
+      "Transform matrices"
+    ],
+    "essentials": [
+      "State the valid input range before indexing the first element.",
+      "Distinguish a contiguous subarray from a subsequence.",
+      "Know when an output array counts as auxiliary memory.",
+      "Dry-run all-negative arrays, duplicates, and boundary rows."
+    ],
+    "outcomes": "Choose a scan invariant, explain O(n) versus O(n²) work, and update arrays without overwriting information too early.",
+    "related": [
+      1,
+      11,
+      560,
+      33
+    ]
+  },
+  {
+    "directory": "02-Strings",
+    "title": "Strings",
+    "overview": "Build reliable character processing, parsing, and string construction skills. Specialized hashing, window, and stack problems have canonical homes elsewhere.",
+    "concepts": [
+      "Character versus index return values",
+      "StringBuilder and immutable strings",
+      "Parsing and carry propagation",
+      "Center expansion and compression"
+    ],
+    "progression": [
+      "Character scans",
+      "String construction",
+      "Parsing",
+      "Substring reasoning"
+    ],
+    "essentials": [
+      "State the alphabet assumption: several examples use fixed ASCII or lowercase frequency arrays.",
+      "Java char represents a UTF-16 code unit, not every possible Unicode character.",
+      "Repeated String concatenation can hide copying costs; use StringBuilder for accumulation.",
+      "A standalone demo may need a class/method adapter before submission."
+    ],
+    "outcomes": "Implement string operations with clear contracts and recognize when hashing, pointers, or a window is the better pattern.",
+    "related": [
+      3,
+      20,
+      49,
+      76,
+      394
+    ]
+  },
+  {
+    "directory": "03-Basic-Math-and-Bit-Manipulation",
+    "title": "Basic Math and Bit Manipulation",
+    "overview": "Learn numerical invariants and bit masks that simplify arithmetic, counting, and small-set representations.",
+    "concepts": [
+      "Euclidean GCD and overflow-safe LCM",
+      "Primes and divisor pairs",
+      "AND, OR, XOR, NOT and shifts",
+      "Set, clear, check and toggle bits"
+    ],
+    "progression": [
+      "GCD and divisibility",
+      "Prime and factor tests",
+      "Single-bit masks",
+      "XOR and set-bit counting"
+    ],
+    "essentials": [
+      "Cast before arithmetic when an intermediate can overflow int.",
+      "Use d <= n / d for a square-root loop without d*d overflow.",
+      "Java shifts mask the shift distance; validate bit positions.",
+      "XOR cancels equal pairs; that argument relies on the problem’s multiplicities."
+    ],
+    "outcomes": "Explain the arithmetic invariant, handle zero and sign boundaries, and use a mask as a compact set.",
+    "related": [
+      78,
+      50
+    ]
+  },
+  {
+    "directory": "04-Sorting",
+    "title": "Sorting",
+    "overview": "Compare elementary sorts, efficient divide-and-conquer sorts, and bounded-key counting. Sorting often makes a later greedy or pointer argument possible.",
+    "concepts": [
+      "Bubble, selection and insertion sort",
+      "Merge sort and quick sort",
+      "Counting sort for bounded nonnegative keys",
+      "Stability, input mutation and comparator safety"
+    ],
+    "progression": [
+      "Elementary sorts",
+      "Counting sort and partitioning",
+      "Merge and quick sort",
+      "Sorting-based interview patterns"
+    ],
+    "essentials": [
+      "Study iterative sorts first; revisit the recursive sorts after chapter 09.",
+      "Quicksort can take O(n²) time; merge sort has a predictable O(n log n) bound.",
+      "Use Integer.compare instead of subtraction in comparators.",
+      "Counting sort is useful only when the value domain is reasonably small."
+    ],
+    "outcomes": "Choose an algorithm by input size, stability, memory, and key range, and distinguish average from worst-case costs.",
+    "related": [
+      15,
+      56,
+      435,
+      148
+    ]
+  },
+  {
+    "directory": "05-Hashing-and-Prefix-Sum",
+    "title": "Hashing and Prefix Sum",
+    "overview": "Turn repeated searches and range calculations into reusable state with maps, sets, and cumulative sums.",
+    "concepts": [
+      "HashSet membership and uniqueness",
+      "HashMap frequency and complement lookup",
+      "Prefix sums and products",
+      "Counting subarrays with repeated prefix values"
+    ],
+    "progression": [
+      "Set lookup",
+      "Frequency and mapping",
+      "Prefix preprocessing",
+      "Prefix frequency counting"
+    ],
+    "essentials": [
+      "Hash operations are expected constant time, not an unconditional worst-case guarantee.",
+      "Initialize the zero prefix count before processing subarrays.",
+      "A frequency map counts repeated prefixes; a set loses their multiplicity.",
+      "A standard shrinking sum window does not work for arbitrary negative values."
+    ],
+    "outcomes": "Replace repeated scans with lookups, choose set versus map correctly, and derive a range or subarray equation.",
+    "related": [
+      3,
+      209,
+      215
+    ]
+  },
+  {
+    "directory": "06-Two-Pointers",
+    "title": "Two Pointers",
+    "overview": "Maintain two or three boundaries to eliminate candidates, compact values, and partition arrays without extra copies.",
+    "concepts": [
+      "Opposite-direction pointers",
+      "Read/write compaction",
+      "Sorted pair and k-sum reasoning",
+      "Fast/slow pointers through linked-list cross-links"
+    ],
+    "progression": [
+      "Sorted pair search",
+      "In-place compaction",
+      "Three-way partition",
+      "Multi-value sum problems"
+    ],
+    "essentials": [
+      "Sorted order is a precondition for moving a pointer based on the sum.",
+      "Move the shorter boundary in Container With Most Water and explain why.",
+      "After swapping an unprocessed value from the end, inspect it before advancing.",
+      "Use long for sums of multiple arbitrary int values."
+    ],
+    "outcomes": "State what each pointer separates and justify that every move preserves all remaining candidates.",
+    "related": [
+      75,
+      141,
+      142,
+      876
+    ]
+  },
+  {
+    "directory": "07-Sliding-Window",
+    "title": "Sliding Window",
+    "overview": "Reuse work as a contiguous range expands and contracts. Covers fixed windows, frequency constraints, and monotonic deques.",
+    "concepts": [
+      "Fixed-size running sums",
+      "Variable-size windows",
+      "Frequency maps and replacement budgets",
+      "Monotonic deque maxima"
+    ],
+    "progression": [
+      "Fixed windows",
+      "Positive-sum windows",
+      "Frequency constraints",
+      "Monotonic deque"
+    ],
+    "essentials": [
+      "Write the validity condition before choosing when to shrink.",
+      "For minimum-size sum windows, the existing algorithm assumes positive numbers.",
+      "Store indices in a deque so expired elements can be removed.",
+      "O(n) window scans rely on each boundary moving only forward."
+    ],
+    "outcomes": "Choose a fixed or variable window, maintain its state, and justify the amortized bound.",
+    "related": [
+      560,
+      739,
+      84
+    ]
+  },
+  {
+    "directory": "08-Binary-Search",
+    "title": "Binary Search",
+    "overview": "Search sorted domains and monotone answer spaces using explicit boundary invariants.",
+    "concepts": [
+      "Exact search and lower bounds",
+      "Rotated arrays and duplicate ambiguity",
+      "Peaks and sorted matrices",
+      "Minimum feasible and maximum feasible answers"
+    ],
+    "progression": [
+      "Classic search",
+      "Boundary search",
+      "Rotated and matrix problems",
+      "Binary search on the answer"
+    ],
+    "essentials": [
+      "Use left + (right - left) / 2 when bounds are nonnegative.",
+      "Decide whether candidates are indices or possible answers.",
+      "Choose one interval convention and ensure every iteration shrinks it.",
+      "Duplicates can degrade rotated-array search to O(n); sorted-matrix elimination is O(rows + columns)."
+    ],
+    "outcomes": "Define a monotone predicate and return the correct boundary without skipping or repeating candidates.",
+    "related": [
+      50,
+      700
+    ]
+  },
+  {
+    "directory": "09-Recursion",
+    "title": "Recursion",
+    "overview": "Learn to express a problem in terms of a smaller input, then connect single recursive calls to branching decision trees.",
+    "concepts": [
+      "Base case and decreasing measure",
+      "Array and string recursion",
+      "Recursion trees and stack depth",
+      "Subsequences, divide and conquer, constrained generation"
+    ],
+    "progression": [
+      "Array base cases",
+      "String decomposition",
+      "Include/exclude decisions",
+      "Pruning and fast exponentiation"
+    ],
+    "essentials": [
+      "Prove a measure decreases on every call; a missing base case exhausts the stack.",
+      "Count all calls in a recursion tree, not only its depth.",
+      "Separate auxiliary stack space from the potentially exponential output.",
+      "Java does not guarantee tail-call elimination; choose iteration for very deep linear recursion."
+    ],
+    "outcomes": "Describe what one call returns, trace a call tree, and account for stack depth before attempting trees.",
+    "related": [
+      22,
+      78,
+      108,
+      94
+    ]
+  },
+  {
+    "directory": "10-Backtracking",
+    "title": "Backtracking",
+    "overview": "Explore decision trees while restoring mutable state. The curated set covers subset, permutation, reuse, board-placement, and grid constraints.",
+    "concepts": [
+      "Choose, explore, undo",
+      "Path copying and used-index tracking",
+      "Duplicate avoidance through index order",
+      "Pruning with columns, diagonals, rows and boxes"
+    ],
+    "progression": [
+      "Subsets",
+      "Permutations and combinations",
+      "N-Queens constraints",
+      "Sudoku grid search"
+    ],
+    "essentials": [
+      "Copy a path when adding it to the answer; do not store the same mutable list repeatedly.",
+      "Subsets advance the start index; Combination Sum deliberately reuses it.",
+      "Undo all state changes on a failed branch.",
+      "Pruning removes impossible branches; it does not make worst-case search polynomial."
+    ],
+    "outcomes": "Model the decision, legal choices, state restoration, and stopping condition for a constrained search.",
+    "related": [
+      22,
+      50
+    ]
+  },
+  {
+    "directory": "11-Linked-List",
+    "title": "Linked List",
+    "overview": "Practice pointer changes with explicit ownership of next links, then build toward cycles, merges, and reordering.",
+    "concepts": [
+      "Node creation and insertion/deletion",
+      "Dummy nodes and head changes",
+      "Fast/slow cycle and middle patterns",
+      "Reversal, merging, copying and reordering"
+    ],
+    "progression": [
+      "Create and traverse",
+      "Insert and delete",
+      "Reverse and detect cycles",
+      "Merge and reorder"
+    ],
+    "essentials": [
+      "Save the next pointer before overwriting a link.",
+      "Distinguish node identity from equal stored values.",
+      "Test empty, singleton, even-length and odd-length structures where allowed.",
+      "Original demos use local Node types; adapt to LeetCode’s node signature when submitting."
+    ],
+    "outcomes": "Draw pointer changes, handle head replacement, and explain O(1) pointer storage versus recursive stack costs.",
+    "related": [
+      23,
+      109,
+      141,
+      142
+    ]
+  },
+  {
+    "directory": "12-Stacks-and-Queues",
+    "title": "Stacks and Queues",
+    "overview": "Use LIFO and FIFO state for parsing, simulation, circular buffers, and monotonic structures.",
+    "concepts": [
+      "Stack matching and expression evaluation",
+      "Queue simulation and amortized transfers",
+      "Circular queue and deque design",
+      "Monotonic stack and deque patterns"
+    ],
+    "progression": [
+      "Matching and parsing",
+      "Stack/queue simulation",
+      "Circular buffers",
+      "Monotonic structures"
+    ],
+    "essentials": [
+      "For RPN, the first popped operand is the right operand of subtraction or division.",
+      "Distinguish values from indices in monotonic stacks.",
+      "A two-stack queue has amortized O(1) operations, not O(1) for every transfer.",
+      "Each index enters and leaves a monotonic structure at most once, giving O(n) total work."
+    ],
+    "outcomes": "Select the right end for each operation, reason about empty/full states, and derive monotonic invariants.",
+    "related": [
+      239,
+      22
+    ]
+  },
+  {
+    "directory": "13-Greedy",
+    "title": "Greedy",
+    "overview": "Make local decisions that admit an optimal completion. Sorting provides an order in which those decisions can be justified.",
+    "concepts": [
+      "Running minimum and local state",
+      "Intervals and earliest finishing time",
+      "Lightest/heaviest pairing",
+      "Exchange arguments and counterexamples"
+    ],
+    "progression": [
+      "Local state scans",
+      "Sorted intervals",
+      "Greedy pairing",
+      "Proof and counterexample practice"
+    ],
+    "essentials": [
+      "State why the chosen decision can replace one in an optimal solution.",
+      "A plausible local rule is not sufficient; search for a small counterexample.",
+      "Check whether intervals that touch are compatible for this specific problem.",
+      "Include sorting time and memory in the full algorithm cost."
+    ],
+    "outcomes": "Explain the choice and its proof, and recognize when exhaustive search is needed instead.",
+    "related": [
+      11,
+      435,
+      621
+    ]
+  },
+  {
+    "directory": "14-Heaps-and-Priority-Queues",
+    "title": "Heaps and Priority Queues",
+    "overview": "Use a heap when the next smallest or largest item changes as work arrives or is consumed.",
+    "concepts": [
+      "Java min-heaps and max-heaps",
+      "Bounded heaps for top K",
+      "Merging sorted streams",
+      "Scheduling frequent tasks with cooldowns"
+    ],
+    "progression": [
+      "PriorityQueue operations",
+      "Top K",
+      "K-way merging",
+      "Priority scheduling"
+    ],
+    "essentials": [
+      "PriorityQueue iteration is not sorted; repeatedly poll for priority order.",
+      "A min-heap of size k retains the k largest values.",
+      "Use comparator helpers to avoid subtraction overflow.",
+      "For cooldown scheduling, do not reinsert a task until its current cycle ends."
+    ],
+    "outcomes": "Select heap direction, bound heap size, and express the cost in terms of the active frontier.",
+    "related": [
+      23,
+      215,
+      621,
+      239
+    ]
+  },
+  {
+    "directory": "15-Binary-Trees",
+    "title": "Binary Trees",
+    "overview": "Apply recursion and queues to binary-tree traversal, structural comparison, height, balance, and diameter.",
+    "concepts": [
+      "Preorder, inorder and postorder DFS",
+      "Breadth-first level order",
+      "Structural and mirror recursion",
+      "Postorder aggregation for height and diameter"
+    ],
+    "progression": [
+      "TreeNode and DFS",
+      "Structural comparison",
+      "Breadth-first levels",
+      "Height, balance and diameter"
+    ],
+    "essentials": [
+      "Use postorder when a parent depends on child results.",
+      "Count diameter in edges while the helper returns height in nodes.",
+      "A traversal is O(n), but recursive stack space is O(h), which can reach O(n).",
+      "Use a fresh Solution instance for preserved stateful examples, including Diameter."
+    ],
+    "outcomes": "Choose a traversal order, define a recursive return contract, and avoid recomputing subtree heights.",
+    "related": [
+      98,
+      108,
+      230
+    ]
+  },
+  {
+    "directory": "16-Binary-Search-Trees",
+    "title": "Binary Search Trees",
+    "overview": "Exploit the ordering invariant to search, validate, delete, prune, construct, and transform BSTs.",
+    "concepts": [
+      "Ordered descent and ancestor bounds",
+      "Sorted inorder traversal and rank",
+      "Successor replacement and pruning",
+      "Balanced construction and pointer rewiring"
+    ],
+    "progression": [
+      "Search and insert",
+      "Validate and traverse",
+      "Rank, delete and prune",
+      "Construct and transform"
+    ],
+    "essentials": [
+      "BST validity depends on all ancestor bounds, not just immediate children.",
+      "Search/insert/delete cost O(h): O(log n) when balanced and O(n) when skewed.",
+      "The preserved sorted-list construction repeatedly finds the middle: O(n log n) time.",
+      "Use a fresh Solution instance for preserved stateful mode and minimum-difference examples."
+    ],
+    "outcomes": "Use sorted inorder order, handle deletion cases, and distinguish a BST from a balanced BST.",
+    "related": [
+      94,
+      109,
+      700
+    ]
+  }
+]

@@ -35,7 +35,7 @@ Output:
 
 ## Complexity
 
-- Time Complexity: O(m × n)
+- Time Complexity: O(m Ã— n)
 - Space Complexity: O(1)
 
 ## Interview Pattern

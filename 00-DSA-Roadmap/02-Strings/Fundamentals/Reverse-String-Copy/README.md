@@ -42,3 +42,7 @@ olleh
 ## Interview Pattern
 
 Two Pointers / String Manipulation
+
+## Contract note
+
+This exercise returns a new String and uses O(n) extra memory. LeetCode 344 instead requires modifying a char array in place, so this example is cataloged as a fundamental, not as that submission.

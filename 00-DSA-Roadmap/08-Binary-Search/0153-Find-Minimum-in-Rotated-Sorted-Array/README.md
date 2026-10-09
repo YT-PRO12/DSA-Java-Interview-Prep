@@ -50,3 +50,10 @@ Output:
 ## Interview Pattern
 
 Binary Search / Rotated Sorted Array
+
+## Preserved implementations
+
+One canonical problem folder contains the original variants. Compile each Java file separately; these are existing implementations, not additional solved problems.
+
+- [FindMinimumInRotatedSortedArray.java](FindMinimumInRotatedSortedArray.java)
+- [Solution.java](Solution.java)

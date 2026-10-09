@@ -1,0 +1,2100 @@
+{
+  "baseline_commit": "74cac98400ed27133e85d1157ed8097b05fbe3fc",
+  "audit_date": "2026-10-09",
+  "files": [
+    {
+      "path": ".gitignore",
+      "blob": "6b468b62a9884e67ca19b673f8e14e1931d65036",
+      "bytes": 8,
+      "new_path": ".gitignore"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0001-Two-Sum/Output.txt",
+      "blob": "41a2f86102be4a6ab7787acdd413c52c30e3e2d6",
+      "bytes": 36,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0001-Two-Sum/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0001-Two-Sum/README.md",
+      "blob": "e0642468c40028cb4dad0a1554a316d862cd1d72",
+      "bytes": 613,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0001-Two-Sum/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0001-Two-Sum/TwoSum.java",
+      "blob": "898495ca941beb13a57ae2d11f994a7a69f83312",
+      "bytes": 725,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0001-Two-Sum/TwoSum.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0011-Container-With-Most-Water/ContainerWithMostWater.java",
+      "blob": "26741db05c007b3d0a85c7440e906ba3378b76a5",
+      "bytes": 808,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0011-Container-With-Most-Water/ContainerWithMostWater.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0011-Container-With-Most-Water/Output.txt",
+      "blob": "fa5b9e9e3e47e37c7482573b162a7a5bf9c39fe2",
+      "bytes": 40,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0011-Container-With-Most-Water/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0011-Container-With-Most-Water/README.md",
+      "blob": "bcd89586c9fca15465162e1ea5becd98eb5fc0fa",
+      "bytes": 880,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0011-Container-With-Most-Water/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0015-3Sum/Output.txt",
+      "blob": "7c36c6512062f8f91686968fa804f1fb9db74e78",
+      "bytes": 96,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0015-3Sum/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0015-3Sum/README.md",
+      "blob": "988dd96d19dfae31f1f6f517ea840c50167c7855",
+      "bytes": 719,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0015-3Sum/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0015-3Sum/ThreeSum.java",
+      "blob": "8d899d847d486336bf9cb01b91e784c5a227b481",
+      "bytes": 1334,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0015-3Sum/ThreeSum.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0018-4Sum/FourSum.java",
+      "blob": "c940ee988b40fdea287da9b69633c9eb1a491edd",
+      "bytes": 1728,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0018-4Sum/FourSum.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0018-4Sum/Output.txt",
+      "blob": "538089fc26a35991a6c4c2b9bd57dccfa3501b02",
+      "bytes": 142,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0018-4Sum/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0018-4Sum/README.md",
+      "blob": "b14164dff041b2986b8ef48e1b83befd2e19f8d1",
+      "bytes": 870,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0018-4Sum/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0026-Remove-Duplicates-from-Sorted-Array/Output.txt",
+      "blob": "03a6cd1deb8bc98c64abdf9fb52370f038ca0a4d",
+      "bytes": 122,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0026-Remove-Duplicates-from-Sorted-Array/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0026-Remove-Duplicates-from-Sorted-Array/README.md",
+      "blob": "4f96db0f4be862aa47ca5a02a0720ab29753f13b",
+      "bytes": 562,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0026-Remove-Duplicates-from-Sorted-Array/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0026-Remove-Duplicates-from-Sorted-Array/RemoveDuplicatesFromSortedArray.java",
+      "blob": "6510481b97fbbe7049e4668e87023cb5c371782c",
+      "bytes": 793,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0026-Remove-Duplicates-from-Sorted-Array/RemoveDuplicatesFromSortedArray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0031-Next-Permutation/NextPermutation.java",
+      "blob": "2f0c310e35ae8f53c2fd070375df1e67b7cd787b",
+      "bytes": 1071,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0031-Next-Permutation/NextPermutation.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0031-Next-Permutation/Output.txt",
+      "blob": "41d6fc9661a65fc37582e837cb2573e142049b09",
+      "bytes": 60,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0031-Next-Permutation/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0031-Next-Permutation/README.md",
+      "blob": "c7f7721fa9e0ff832333fbc7802eb006845e7492",
+      "bytes": 652,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0031-Next-Permutation/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0033-Search-in-Rotated-Sorted-Array/Output.txt",
+      "blob": "beb1e7307d0d2527070075f1a7ba778ece0c3637",
+      "bytes": 36,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0033-Search-in-Rotated-Sorted-Array/README.md",
+      "blob": "280a59371ba7982703dab683587360b3884d136b",
+      "bytes": 784,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0033-Search-in-Rotated-Sorted-Array/SearchInRotatedSortedArray.java",
+      "blob": "2047c20cb986cd8ac14e5b29643ee192968afbe6",
+      "bytes": 1103,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array/SearchInRotatedSortedArray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0042-Trapping-Rain-Water/Output.txt",
+      "blob": "353476d0d98f9ecd3e7dd260086c772fb231de7f",
+      "bytes": 48,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0042-Trapping-Rain-Water/README.md",
+      "blob": "0d2f106c8065bcecf1d3e70b84874732d050a699",
+      "bytes": 796,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0042-Trapping-Rain-Water/TrappingRainWater.java",
+      "blob": "b43c8b46792ebb94ccc3797b5478ad1b6cc40ee0",
+      "bytes": 1019,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water/TrappingRainWater.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/Output.txt",
+      "blob": "e2a0110febf042c563b180da1753fb5818f8178e",
+      "bytes": 156,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/README.md",
+      "blob": "944ebb95ede4cde30eb8c0bbb0fe20269df7410e",
+      "bytes": 624,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/RotateMatrix.java",
+      "blob": "bf9f894056b78aa472cfb5ee8882469ce2b58195",
+      "bytes": 1158,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/RotateMatrix.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/KadaneMaximumSubarray.java",
+      "blob": "df0944f41ab3eafb3de7df7890f96a6c9e3d0562",
+      "bytes": 571,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/KadaneMaximumSubarray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/Output.txt",
+      "blob": "9a76f5d2d3d4b7e78cfd712797f6a4ace207b67c",
+      "bytes": 52,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/README.md",
+      "blob": "8d091dc37af8727ac085c5643e8b6f8be25bec28",
+      "bytes": 748,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0056-Merge-Intervals/MergeIntervals.java",
+      "blob": "459a642c347df2422dfec178a100b6fd11c634c9",
+      "bytes": 1025,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0056-Merge-Intervals/MergeIntervals.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0056-Merge-Intervals/Output.txt",
+      "blob": "fd13429de43766b484b7561acf1d93adc2b2195c",
+      "bytes": 94,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0056-Merge-Intervals/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0056-Merge-Intervals/README.md",
+      "blob": "a820499840b647986ff732a188f66921cd46605d",
+      "bytes": 660,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0056-Merge-Intervals/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/Output.txt",
+      "blob": "44d8afb63d81f41fc9fd222bd732dcea1fa27d8f",
+      "bytes": 128,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/README.md",
+      "blob": "0566deb6f0e82aad6685129c771dca1522cd27d7",
+      "bytes": 726,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/SetMatrixZeroes.java",
+      "blob": "bf4ee526cdfc3a2e77d7c3475bf8aff85975251e",
+      "bytes": 2097,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/SetMatrixZeroes.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0121-Best-Time-to-Buy-and-Sell-Stock/BestTimeToBuyAndSellStock.java",
+      "blob": "680234faa35340b0065aa2ef4a6dbd133c2acda8",
+      "bytes": 638,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0121-Best-Time-to-Buy-and-Sell-Stock/BestTimeToBuyAndSellStock.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0121-Best-Time-to-Buy-and-Sell-Stock/Output.txt",
+      "blob": "e7552eb8b07137e9a26152f91b59310396b9bf4f",
+      "bytes": 40,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0121-Best-Time-to-Buy-and-Sell-Stock/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0121-Best-Time-to-Buy-and-Sell-Stock/README.md",
+      "blob": "ed586ac95018acd230b7964888b666a5a5e40ed9",
+      "bytes": 702,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0121-Best-Time-to-Buy-and-Sell-Stock/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0128-Longest-Consecutive-Sequence/LongestConsecutiveSequence.java",
+      "blob": "22bcf6c2f5c5b5d1eefa9f9160e436665e3b383e",
+      "bytes": 875,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0128-Longest-Consecutive-Sequence/LongestConsecutiveSequence.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0128-Longest-Consecutive-Sequence/Output.txt",
+      "blob": "4fea0225e57f694c62ed7e6404156e771d8aadd2",
+      "bytes": 82,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0128-Longest-Consecutive-Sequence/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0128-Longest-Consecutive-Sequence/README.md",
+      "blob": "f005526616e8430a2814be34a34b7d0cc671b6ab",
+      "bytes": 730,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0128-Longest-Consecutive-Sequence/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0136-Single-Number/Output.txt",
+      "blob": "3990578659aecbebf5fd6600be8966baec1bce21",
+      "bytes": 38,
+      "new_path": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0136-Single-Number/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0136-Single-Number/README.md",
+      "blob": "c16baad7835234faeaa40454a44df15c8721c2cf",
+      "bytes": 556,
+      "new_path": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0136-Single-Number/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0136-Single-Number/SingleNumber.java",
+      "blob": "c07f119ee0572b22329b69d10a355957106a853e",
+      "bytes": 406,
+      "new_path": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0136-Single-Number/SingleNumber.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0153-Find-Minimum-in-Rotated-Sorted-Array/FindMinimumInRotatedSortedArray.java",
+      "blob": "c2cc2f705ad1d34e9390f382a523d5617842db64",
+      "bytes": 606,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/FindMinimumInRotatedSortedArray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0153-Find-Minimum-in-Rotated-Sorted-Array/Output.txt",
+      "blob": "4229a7f925fc4bc2bc70acad494c4947274b5b3e",
+      "bytes": 42,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0153-Find-Minimum-in-Rotated-Sorted-Array/README.md",
+      "blob": "598cc3fc956fc3835be782e852c7991e8580ea93",
+      "bytes": 720,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/MajorityElement.java",
+      "blob": "b8baa7fba226b9903b2eba4b36f2318eea5aa541",
+      "bytes": 618,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/MajorityElement.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/Output.txt",
+      "blob": "1baa5b00042011451c565002204abe6a2a88cb48",
+      "bytes": 44,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/README.md",
+      "blob": "083caefd85bbbd99eaa55ed54ed7a8d627a02bca",
+      "bytes": 740,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/MajorityElementII.java",
+      "blob": "ba24782dd58a6f920105189830600baf6fa05b8b",
+      "bytes": 1457,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/MajorityElementII.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/Output.txt",
+      "blob": "a9e16eb5e2e98eaea1f4a742a542db8c15a09c5d",
+      "bytes": 56,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/README.md",
+      "blob": "edee2edf7f543617c603d24586358fb1b2b54fd5",
+      "bytes": 676,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0238-Product-of-Array-Except-Self/Output.txt",
+      "blob": "f1c06277756c45885e190b897d77c8155e19bec3",
+      "bytes": 64,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0238-Product-of-Array-Except-Self/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0238-Product-of-Array-Except-Self/ProductOfArrayExceptSelf.java",
+      "blob": "30b55066e8b98ebf67e2c7eb80d81e732b8303a0",
+      "bytes": 737,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0238-Product-of-Array-Except-Self/ProductOfArrayExceptSelf.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0238-Product-of-Array-Except-Self/README.md",
+      "blob": "788e8d188559e517aa1874cc45507548ee06d7b6",
+      "bytes": 687,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0238-Product-of-Array-Except-Self/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0268-Missing-Number/MissingNumber.java",
+      "blob": "27c4aa4b1b85d0858d05df09a68fe1be90988f15",
+      "bytes": 480,
+      "new_path": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0268-Missing-Number/MissingNumber.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0268-Missing-Number/Output.txt",
+      "blob": "7e8ef251263d15fc5702c4246dcfb4b6c86dc099",
+      "bytes": 40,
+      "new_path": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0268-Missing-Number/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0268-Missing-Number/README.md",
+      "blob": "5440e25bad0eb2a572850c8a5ca8b97f34119378",
+      "bytes": 489,
+      "new_path": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0268-Missing-Number/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0283-Move-Zeroes/MoveZeroes.java",
+      "blob": "9221f998b28c1b15d8814234f296dda0cc847322",
+      "bytes": 626,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0283-Move-Zeroes/MoveZeroes.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0283-Move-Zeroes/Output.txt",
+      "blob": "8ee58e3ffae73d9b6baf77f0d22e5fb11d812a4f",
+      "bytes": 82,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0283-Move-Zeroes/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0283-Move-Zeroes/README.md",
+      "blob": "f1a3d1b1b1a87ea90dfde89aca81a2adddd2e1ba",
+      "bytes": 529,
+      "new_path": "00-DSA-Roadmap/06-Two-Pointers/0283-Move-Zeroes/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0349-Intersection-of-Two-Arrays/IntersectionOfTwoArrays.java",
+      "blob": "0aa390017a972246a97692ec4cc60950193960ab",
+      "bytes": 755,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays/IntersectionOfTwoArrays.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0349-Intersection-of-Two-Arrays/Output.txt",
+      "blob": "b067714d4b8a13582c5bcb47752dba66fdf5e7a5",
+      "bytes": 72,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0349-Intersection-of-Two-Arrays/README.md",
+      "blob": "45e985290427b67f0dddf353ef755482639b6149",
+      "bytes": 629,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/MaximumConsecutiveOnes.java",
+      "blob": "8f7f042ca7462397cebd4ccb493198706fe667e5",
+      "bytes": 610,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/MaximumConsecutiveOnes.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/Output.txt",
+      "blob": "257b1a8f05e4c53f8814b8daa323a9f114d308ac",
+      "bytes": 60,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/README.md",
+      "blob": "b3348f9aad1864a4a0f2d5f2c6479da3e157e56c",
+      "bytes": 565,
+      "new_path": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0560-Subarray-Sum-Equals-K/Output.txt",
+      "blob": "4674da8a5cf6a8f2130a4034b43615a1c96546a1",
+      "bytes": 72,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0560-Subarray-Sum-Equals-K/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0560-Subarray-Sum-Equals-K/README.md",
+      "blob": "6b1c16cab3d74b6403023eeefb5ae888ec300634",
+      "bytes": 793,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0560-Subarray-Sum-Equals-K/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/0560-Subarray-Sum-Equals-K/SubarraySumEqualsK.java",
+      "blob": "7adcdf8e86439295bc0db145e10d5377fae5be37",
+      "bytes": 814,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0560-Subarray-Sum-Equals-K/SubarraySumEqualsK.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Check-if-Array-is-Sorted/CheckIfArrayIsSorted.java",
+      "blob": "7032e60738e13a7f2f51477c6f152f379c610b9e",
+      "bytes": 447,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Check-if-Array-is-Sorted/CheckIfArrayIsSorted.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Check-if-Array-is-Sorted/Output.txt",
+      "blob": "1953ce69c2bba2a824aa958aab81afde15345544",
+      "bytes": 48,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Check-if-Array-is-Sorted/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Check-if-Array-is-Sorted/README.md",
+      "blob": "db8878fb3d97e2696c495b900b51dae945938e3d",
+      "bytes": 506,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Check-if-Array-is-Sorted/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Largest-Element/LargestElement.java",
+      "blob": "a736cc69c8c5add562f57baf946c44a0a43d7ee5",
+      "bytes": 476,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Largest-Element/LargestElement.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Largest-Element/Output.txt",
+      "blob": "d514634ab022bc4ceaa9cbb6d5faf152bd1e3d67",
+      "bytes": 249,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Largest-Element/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Largest-Element/README.md",
+      "blob": "f95c5285e1deccd4e8f64edd032cc8c5161cb8ec",
+      "bytes": 412,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Largest-Element/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Left-Rotate-Array/LeftRotateArray.java",
+      "blob": "1da30491b159db310b15dd9991eabfafaba2881e",
+      "bytes": 501,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Left-Rotate-Array/LeftRotateArray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Left-Rotate-Array/Output.txt",
+      "blob": "14a2287f3fddbe223be8fd2cc820078eec92b785",
+      "bytes": 80,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Left-Rotate-Array/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Left-Rotate-Array/README.md",
+      "blob": "d8dc08dea7c8b154ef06ad8c7e6535c6f1edd0a0",
+      "bytes": 434,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Left-Rotate-Array/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Linear-Search/LinearSearch.java",
+      "blob": "4007d69bf685681fc3d781c63d4eadf3ab0d0a4b",
+      "bytes": 587,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Linear-Search/LinearSearch.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Linear-Search/Output.txt",
+      "blob": "f5e794dd605c3e8dc51281b321a777ae3054fe09",
+      "bytes": 56,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Linear-Search/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Linear-Search/README.md",
+      "blob": "ca333fcc8524ad36f12f48279ef67f6a04a2783b",
+      "bytes": 583,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Linear-Search/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Second-Largest-Element/Output.txt",
+      "blob": "192d9229512c6c2982d37b4c173655b09ab986f8",
+      "bytes": 158,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Second-Largest-Element/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Second-Largest-Element/README.md",
+      "blob": "4deaef0c7c30b9f42eb29735c463d21df9983741",
+      "bytes": 474,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Second-Largest-Element/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Second-Largest-Element/SecondLargestElement.java",
+      "blob": "d975b7404e580aae535bf77f3357b9964e0c8a52",
+      "bytes": 719,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Second-Largest-Element/SecondLargestElement.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Union-of-Two-Arrays/Output.txt",
+      "blob": "8796dd3d40c6e84d4a46fc66cb826e1a0e7d944f",
+      "bytes": 76,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Union-of-Two-Arrays/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Union-of-Two-Arrays/README.md",
+      "blob": "31c8afea81b8b5894163476289666b4f0c990ebf",
+      "bytes": 620,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Union-of-Two-Arrays/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Union-of-Two-Arrays/UnionOfTwoArrays.java",
+      "blob": "8d3b5726291c873e17c8f92793eae988fffa4db8",
+      "bytes": 590,
+      "new_path": "00-DSA-Roadmap/01-Arrays/Fundamentals/Union-of-Two-Arrays/UnionOfTwoArrays.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/01-Arrays/README.md",
+      "blob": "3f42f2c03b98ea507ce9d4d72567f8a2c8da8799",
+      "bytes": 818,
+      "new_path": "00-DSA-Roadmap/01-Arrays/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0003-Longest-Substring-Without-Repeating-Characters/LongestSubstringWithoutRepeatingCharacters.java",
+      "blob": "e5e5f35895b8832f2fca3afebca6961f07cd43f2",
+      "bytes": 797,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/examples/strings/LongestSubstringWithoutRepeatingCharacters.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0003-Longest-Substring-Without-Repeating-Characters/Output.txt",
+      "blob": "5492fc0e005d5b4b844fb530831c70d80ffaf948",
+      "bytes": 60,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/examples/strings/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0003-Longest-Substring-Without-Repeating-Characters/README.md",
+      "blob": "a75168343c0e655566c091439ceea20066212b46",
+      "bytes": 575,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/examples/strings/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/LongestPalindromicSubstring.java",
+      "blob": "775ac3a8b38067da3cdca6432ae489e797ccdaf8",
+      "bytes": 1102,
+      "new_path": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/LongestPalindromicSubstring.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/Output.txt",
+      "blob": "95ecf4b6c294cf89c36229d26179218cd1d2e1b3",
+      "bytes": 74,
+      "new_path": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/README.md",
+      "blob": "3df8c8d25a4b7f14c40a9e23986da1410caf874d",
+      "bytes": 638,
+      "new_path": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/Output.txt",
+      "blob": "7211aadf8370235c4cc9bc7d1fdabaef90e46179",
+      "bytes": 50,
+      "new_path": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/README.md",
+      "blob": "a539d55edd1e957d239d7af2bb27d7ed158d18d4",
+      "bytes": 540,
+      "new_path": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/StringToIntegerAtoi.java",
+      "blob": "70e0f040d6bb14f05f190d20e0e8f79970522e66",
+      "bytes": 1009,
+      "new_path": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/StringToIntegerAtoi.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/LongestCommonPrefix.java",
+      "blob": "61fc248610f187784952df675bdf7b9cd4963d2f",
+      "bytes": 695,
+      "new_path": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/LongestCommonPrefix.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/Output.txt",
+      "blob": "72edf8cf8f5f4028346efb94add16da5b77dcfaa",
+      "bytes": 56,
+      "new_path": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/README.md",
+      "blob": "3eacd2cdacabe58f69acb5396fb154cc68f36247",
+      "bytes": 472,
+      "new_path": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0020-Valid-Parentheses/Output.txt",
+      "blob": "d34f076a9628ba6e28e884e22685eb4e6ca2c470",
+      "bytes": 52,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0020-Valid-Parentheses/README.md",
+      "blob": "a08465d51253d63c9c570c5975aad08ca45ff8dc",
+      "bytes": 596,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0020-Valid-Parentheses/ValidParentheses.java",
+      "blob": "d5efaa2ae0f9d3680592cbeeae708f54ac399398",
+      "bytes": 853,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses/ValidParentheses.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/ImplementStrStr.java",
+      "blob": "e31981e96035a239b949779b9ba6bd1db9efe387",
+      "bytes": 745,
+      "new_path": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/ImplementStrStr.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/Output.txt",
+      "blob": "871d1f4f7d928081f60616a7c96d845813659927",
+      "bytes": 56,
+      "new_path": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/README.md",
+      "blob": "656920cacfab9e898f0c7add49a23b0660682261",
+      "bytes": 514,
+      "new_path": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/MultiplyStrings.java",
+      "blob": "44f7e34db13cdee441309bd0c6bf57ec6571ad56",
+      "bytes": 1173,
+      "new_path": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/MultiplyStrings.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/Output.txt",
+      "blob": "65264897f3a876d8de6811eaa4c1b7a5e19ab5de",
+      "bytes": 34,
+      "new_path": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/README.md",
+      "blob": "7f791ecaf0956375f8882d220db051bbd9e7010b",
+      "bytes": 650,
+      "new_path": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0049-Group-Anagrams/GroupAnagrams.java",
+      "blob": "52f25a8f4126fe8b1af1a9181688df01c62a5707",
+      "bytes": 730,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0049-Group-Anagrams/GroupAnagrams.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0049-Group-Anagrams/Output.txt",
+      "blob": "74e6c0f9328721ce9da87e4eb883c75ef6ad03d4",
+      "bytes": 114,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0049-Group-Anagrams/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0049-Group-Anagrams/README.md",
+      "blob": "42375fc4836ee499a252ee833122fc474a67947f",
+      "bytes": 641,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0049-Group-Anagrams/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0076-Minimum-Window-Substring/MinimumWindowSubstring.java",
+      "blob": "81cb793b20cfd6233285baf7d1365b46382ba823",
+      "bytes": 1372,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0076-Minimum-Window-Substring/MinimumWindowSubstring.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0076-Minimum-Window-Substring/Output.txt",
+      "blob": "52a607429d0c9d1976429f4bd5760a121206117c",
+      "bytes": 46,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0076-Minimum-Window-Substring/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0076-Minimum-Window-Substring/README.md",
+      "blob": "8d960f111980aa8cdc9fdd60dffcf85f769bd160",
+      "bytes": 653,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0076-Minimum-Window-Substring/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/CompareVersionNumbers.java",
+      "blob": "af2529036fb8f7f2445427d5011168b11f5dc144",
+      "bytes": 846,
+      "new_path": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/CompareVersionNumbers.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/Output.txt",
+      "blob": "8a7c2409415947c54a3ef3e8d6db35423c7185c5",
+      "bytes": 46,
+      "new_path": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/README.md",
+      "blob": "4e37a00c56638fc154901769804a835ea9aaa63d",
+      "bytes": 633,
+      "new_path": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0205-Isomorphic-Strings/IsomorphicStrings.java",
+      "blob": "a34795aa073cf2963b55662489773e65d41adb51",
+      "bytes": 943,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0205-Isomorphic-Strings/IsomorphicStrings.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0205-Isomorphic-Strings/Output.txt",
+      "blob": "95cbe4f91cc3bf4561926fe3d392e90a59c39950",
+      "bytes": 46,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0205-Isomorphic-Strings/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0205-Isomorphic-Strings/README.md",
+      "blob": "ffcc0a8e564f12fb8f2a22557a1d13a78233606f",
+      "bytes": 488,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0205-Isomorphic-Strings/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0242-Valid-Anagram/Output.txt",
+      "blob": "e0964b8c51daeadee9794953c9274865311cf31e",
+      "bytes": 44,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0242-Valid-Anagram/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0242-Valid-Anagram/README.md",
+      "blob": "8d18cbe727a9063f40bd6ee6073162a6e7b18e85",
+      "bytes": 544,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0242-Valid-Anagram/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0242-Valid-Anagram/ValidAnagram.java",
+      "blob": "adef2b922e25fcc1c39dbb72095c5f210722108a",
+      "bytes": 684,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0242-Valid-Anagram/ValidAnagram.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0290-Word-Pattern/Output.txt",
+      "blob": "0ed575cd1e2f66646ca52e044810c55b767bc590",
+      "bytes": 48,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0290-Word-Pattern/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0290-Word-Pattern/README.md",
+      "blob": "eb99e8d200e59d21fc963cc90cca6c0c98add166",
+      "bytes": 447,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0290-Word-Pattern/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0290-Word-Pattern/WordPattern.java",
+      "blob": "9fede1ce43dd6483b234fb6e3c8a36fe32da4777",
+      "bytes": 1146,
+      "new_path": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0290-Word-Pattern/WordPattern.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0344-Reverse-String/Output.txt",
+      "blob": "eaf5ae715968f0fa11ad33882cf36c5543ba79f0",
+      "bytes": 98,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Reverse-String-Copy/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0344-Reverse-String/README.md",
+      "blob": "9be3ebd49e3f8ba8349f5b38966c2bc21b24db26",
+      "bytes": 661,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Reverse-String-Copy/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0344-Reverse-String/ReverseAString.java",
+      "blob": "efa4b42ad54043310946b1282f5c9df7aa24f6b0",
+      "bytes": 668,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Reverse-String-Copy/ReverseAString.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0387-First-Unique-Character-in-a-String/FirstNonRepeatingCharacter.java",
+      "blob": "a4a50da9dbb94d465444cc4f309044d32b6f696c",
+      "bytes": 811,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/First-Non-Repeating-Character/FirstNonRepeatingCharacter.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0387-First-Unique-Character-in-a-String/Output.txt",
+      "blob": "4eabc8c38c8eef2ce028c6619d11b7d6c7fdea84",
+      "bytes": 70,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/First-Non-Repeating-Character/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0387-First-Unique-Character-in-a-String/README.md",
+      "blob": "c3c5eeb1159834777c825567d88fd6b8c9836511",
+      "bytes": 525,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/First-Non-Repeating-Character/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0394-Decode-String/DecodeString.java",
+      "blob": "3990d27f7f0bd7ac47cfde9d714415e3eba347cc",
+      "bytes": 1205,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/DecodeString.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0394-Decode-String/Output.txt",
+      "blob": "22864c69e0509d6c18d9f3fea99539538e498e5b",
+      "bytes": 56,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0394-Decode-String/README.md",
+      "blob": "f477829bca7ce62cf8f5aba3fce95e1d9481db1f",
+      "bytes": 600,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0409-Longest-Palindrome/LongestPalindrome.java",
+      "blob": "53d4b7550470d509571458c0d649eeb11d3aa08f",
+      "bytes": 705,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0409-Longest-Palindrome/LongestPalindrome.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0409-Longest-Palindrome/Output.txt",
+      "blob": "7e4a45bd4beb19ac565dbc82d7faaf5d37fe801c",
+      "bytes": 62,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0409-Longest-Palindrome/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0409-Longest-Palindrome/README.md",
+      "blob": "c4cd7ef4f79ebb14c05ed1f93945ff4f6d707a8c",
+      "bytes": 591,
+      "new_path": "00-DSA-Roadmap/13-Greedy/0409-Longest-Palindrome/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/AddStrings.java",
+      "blob": "1c86796cf5b22e12406de68fd023bcfbb7902843",
+      "bytes": 797,
+      "new_path": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/AddStrings.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/Output.txt",
+      "blob": "79ef7ca5c53307e07941fc0f181853c866932740",
+      "bytes": 22,
+      "new_path": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/README.md",
+      "blob": "5e162fd181b9cd77b288715c2593ea3e87b480a0",
+      "bytes": 569,
+      "new_path": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0424-Longest-Repeating-Character-Replacement/LongestRepeatingCharacterReplacement.java",
+      "blob": "89e473b24c0f23deedc7c7bce18937f0c89758e9",
+      "bytes": 924,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement/examples/strings/LongestRepeatingCharacterReplacement.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0424-Longest-Repeating-Character-Replacement/Output.txt",
+      "blob": "9c30b1b649a29c652d89d35cfd893ad477e79400",
+      "bytes": 84,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement/examples/strings/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0424-Longest-Repeating-Character-Replacement/README.md",
+      "blob": "130a5ae88a54399df50b1c8098dabc1975adc622",
+      "bytes": 660,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement/examples/strings/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0438-Find-All-Anagrams-in-a-String/FindAllAnagramsInAString.java",
+      "blob": "809a0fece1d00d6323a2e63f865e3b021ca86d63",
+      "bytes": 1034,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0438-Find-All-Anagrams-in-a-String/FindAllAnagramsInAString.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0438-Find-All-Anagrams-in-a-String/Output.txt",
+      "blob": "cef1d838f2597623fee58ffd9735a1257eecd824",
+      "bytes": 70,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0438-Find-All-Anagrams-in-a-String/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0438-Find-All-Anagrams-in-a-String/README.md",
+      "blob": "9b6b3e1fe5518d3c9c6cbf4bad1173c81534ab0a",
+      "bytes": 560,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0438-Find-All-Anagrams-in-a-String/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0443-String-Compression/Output.txt",
+      "blob": "8e9bb6c225d2ec99e96e96717c8925787ff44ba4",
+      "bytes": 86,
+      "new_path": "00-DSA-Roadmap/02-Strings/0443-String-Compression/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0443-String-Compression/README.md",
+      "blob": "f95b4177ebee47c1e9d6b7c714bdbf4f08720579",
+      "bytes": 620,
+      "new_path": "00-DSA-Roadmap/02-Strings/0443-String-Compression/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0443-String-Compression/StringCompression.java",
+      "blob": "32bb842121eacff30d21d1333b9edf9beceb4783",
+      "bytes": 1064,
+      "new_path": "00-DSA-Roadmap/02-Strings/0443-String-Compression/StringCompression.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0451-Sort-Characters-by-Frequency/Output.txt",
+      "blob": "51a8e0f39020da4708179292bb5c91a275d77e6a",
+      "bytes": 56,
+      "new_path": "00-DSA-Roadmap/04-Sorting/0451-Sort-Characters-By-Frequency/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0451-Sort-Characters-by-Frequency/README.md",
+      "blob": "09df45d7d831a21d28beb1fb9d8641ead9a98ca1",
+      "bytes": 508,
+      "new_path": "00-DSA-Roadmap/04-Sorting/0451-Sort-Characters-By-Frequency/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0451-Sort-Characters-by-Frequency/SortCharactersByFrequency.java",
+      "blob": "481557d85462b7f736e5d8206e3fa3f35d37dfc5",
+      "bytes": 806,
+      "new_path": "00-DSA-Roadmap/04-Sorting/0451-Sort-Characters-By-Frequency/SortCharactersByFrequency.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0567-Permutation-in-String/Output.txt",
+      "blob": "57e715b9e9fb612a50a34051c6492139edfa9e1d",
+      "bytes": 54,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0567-Permutation-in-String/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0567-Permutation-in-String/PermutationInString.java",
+      "blob": "a187d926af1f9281f2dd07de0c63622d819dafd0",
+      "bytes": 943,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0567-Permutation-in-String/PermutationInString.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/0567-Permutation-in-String/README.md",
+      "blob": "e76292d5b872dd1a3f387c208de7f5eb89e064d4",
+      "bytes": 591,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0567-Permutation-in-String/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/Output.txt",
+      "blob": "d72eeb0bacd6988b3f5de247e4e7461930eaf945",
+      "bytes": 130,
+      "new_path": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/README.md",
+      "blob": "07c96d708859e23381d1004ceae9003f5ae07b28",
+      "bytes": 612,
+      "new_path": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/RemoveOuterParentheses.java",
+      "blob": "8cd8a07eb72756da0771729435452ae582fbe026",
+      "bytes": 815,
+      "new_path": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/RemoveOuterParentheses.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Anagram/CheckAnagram.java",
+      "blob": "df0ae19de149bbbb337c3ffbeb7b852a2cb76424",
+      "bytes": 646,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Anagram/CheckAnagram.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Anagram/Output.txt",
+      "blob": "05b02be106fa77b007b3e2587e3a755b96de87cd",
+      "bytes": 132,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Anagram/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Anagram/README.md",
+      "blob": "9b11899127e51bbfb34e4bbfd7c0f1f350af41e8",
+      "bytes": 463,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Anagram/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Palindrome/CheckPalindrome.java",
+      "blob": "24edc15350c5dbe195e55a3bc6bc8833d3c7a48b",
+      "bytes": 593,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Palindrome/CheckPalindrome.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Palindrome/Output.txt",
+      "blob": "698fedce220841aa0c72110302ace831f90618bf",
+      "bytes": 74,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Palindrome/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Palindrome/README.md",
+      "blob": "9a4ed5843f18325bbf714d59dd6156ea74e558eb",
+      "bytes": 543,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Check-Palindrome/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Character-Frequency/CountCharacterFrequency.java",
+      "blob": "724c388480d31a93f32f8d8427a89ed21879532a",
+      "bytes": 729,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Character-Frequency/CountCharacterFrequency.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Character-Frequency/Output.txt",
+      "blob": "2bebf58ced5bbd057465049ec3ea47b301b1131c",
+      "bytes": 130,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Character-Frequency/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Character-Frequency/README.md",
+      "blob": "2760aaa7cde1f8bd8d3988a5986b846db4dcd327",
+      "bytes": 593,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Character-Frequency/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Vowels-and-Consonants/CountVowelsAndConsonants.java",
+      "blob": "ed99fe8f2932b9d34073665a6de7d4b9ce8adb44",
+      "bytes": 852,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Vowels-and-Consonants/CountVowelsAndConsonants.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Vowels-and-Consonants/Output.txt",
+      "blob": "6f1230f8e6a93306a28981fc946121a3275d0447",
+      "bytes": 96,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Vowels-and-Consonants/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Vowels-and-Consonants/README.md",
+      "blob": "919b2a01fedd7ef5c7ddd85bf79d0f19a8a147d1",
+      "bytes": 679,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Count-Vowels-and-Consonants/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Remove-Duplicate-Characters/Output.txt",
+      "blob": "58b51764e80eedd3dc6108fe624a0884edebff34",
+      "bytes": 136,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Remove-Duplicate-Characters/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Remove-Duplicate-Characters/README.md",
+      "blob": "b2e467be0e0ed2603b6a9911d30c40064c71d99a",
+      "bytes": 477,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Remove-Duplicate-Characters/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/Fundamentals/Remove-Duplicate-Characters/RemoveDuplicateCharacters.java",
+      "blob": "73f2f544e279928c111081ddbcd6e209e55e55c1",
+      "bytes": 691,
+      "new_path": "00-DSA-Roadmap/02-Strings/Fundamentals/Remove-Duplicate-Characters/RemoveDuplicateCharacters.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/02-Strings/README.md",
+      "blob": "50523efbb9e0b2bbe621af50fb189a85eed61a7d",
+      "bytes": 634,
+      "new_path": "00-DSA-Roadmap/02-Strings/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/LongestSubstringWithoutRepeatingCharacters.java",
+      "blob": "b2cec3376e53266d3e199b4cf13abca1a05e2cca",
+      "bytes": 731,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/LongestSubstringWithoutRepeatingCharacters.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/Output.txt",
+      "blob": "dc2e55c121cfc58f389952f34d965eeb11ddc2ba",
+      "bytes": 308,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0209-Minimum-Size-Subarray-Sum/MinimumSizeSubarraySum.java",
+      "blob": "bf13c3dfa023fe3db0ccbc69bc966c5d4f7ab379",
+      "bytes": 721,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0209-Minimum-Size-Subarray-Sum/MinimumSizeSubarraySum.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0209-Minimum-Size-Subarray-Sum/Output.txt",
+      "blob": "c1859024f3e557e35a798b0a9c8194c1275f9114",
+      "bytes": 346,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0209-Minimum-Size-Subarray-Sum/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0239-Sliding-Window-Maximum/Output.txt",
+      "blob": "ee2091493a18793394d207ce5b753d96085ba1db",
+      "bytes": 368,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0239-Sliding-Window-Maximum/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0239-Sliding-Window-Maximum/SlidingWindowMaximum.java",
+      "blob": "411fe273e2bdb126d227db0e6c0335bb6be3ae46",
+      "bytes": 1193,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0239-Sliding-Window-Maximum/SlidingWindowMaximum.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0424-Longest-Repeating-Character-Replacement/LongestRepeatingCharacterReplacement.java",
+      "blob": "a26446156c4794f340a571d9455c5a16ac790cee",
+      "bytes": 864,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement/LongestRepeatingCharacterReplacement.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0424-Longest-Repeating-Character-Replacement/Output.txt",
+      "blob": "d18efff98e0e039aae7b5137a368649f25a8a9be",
+      "bytes": 374,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0643-Maximum-Average-Subarray-I/MaximumAverageSubarray.java",
+      "blob": "f5b67bfaddd60e32973ebd188bb0eebd8f3ecd2b",
+      "bytes": 663,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0643-Maximum-Average-Subarray-I/MaximumAverageSubarray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0643-Maximum-Average-Subarray-I/Output.txt",
+      "blob": "3e1f63be8ec89d867272256f295186e90b89ec95",
+      "bytes": 396,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0643-Maximum-Average-Subarray-I/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0904-Fruit-Into-Baskets/FruitIntoBaskets.java",
+      "blob": "31d8bf10ebc56201818797c27c7ac72993037a19",
+      "bytes": 892,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0904-Fruit-Into-Baskets/FruitIntoBaskets.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/0904-Fruit-Into-Baskets/Output.txt",
+      "blob": "7b53a92ff73505ce1d408bd2e92c8e222117aab8",
+      "bytes": 344,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0904-Fruit-Into-Baskets/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/1004-Max-Consecutive-Ones-III/MaxConsecutiveOnesIII.java",
+      "blob": "4648f4f629899e4f86086857099d7f7334218ff0",
+      "bytes": 754,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/1004-Max-Consecutive-Ones-III/MaxConsecutiveOnesIII.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/1004-Max-Consecutive-Ones-III/Output.txt",
+      "blob": "e91ee2f64834c67aaf4593aacc40eb1cd7c9ad8d",
+      "bytes": 420,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/1004-Max-Consecutive-Ones-III/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/Fundamentals/Maximum-Sum-Subarray/MaximumSumSubarray.java",
+      "blob": "baf89259ef99c24f3cefa657d44bb6ec7c7d6dce",
+      "bytes": 646,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/Fundamentals/Maximum-Sum-Subarray/MaximumSumSubarray.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/Fundamentals/Maximum-Sum-Subarray/Output.txt",
+      "blob": "eba1ac7f8c2114c04ebbe357cf762792ad409aeb",
+      "bytes": 301,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/Fundamentals/Maximum-Sum-Subarray/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/Outputs.txt",
+      "blob": "c85ea6864227dd6f7ec626da899cfafd73d9036c",
+      "bytes": 1159,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/Outputs.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/03-Sliding-Window/README.md",
+      "blob": "c0bf36567c646e3bade46f2426b52a3fe79c68a4",
+      "bytes": 536,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0033-Search-in-Rotated-Sorted-Array/Solution.java",
+      "blob": "96215dd0e291f01eea6a365facc7352468a69648",
+      "bytes": 738,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Solution.java",
+      "blob": "7f6b6973831a88e4e4db3b1569b2d99cfe3a3675",
+      "bytes": 1078,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0035-Search-Insert-Position/Solution.java",
+      "blob": "90c1efb2144ffaa878ddebcd91dd2605985d4d1f",
+      "bytes": 458,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0035-Search-Insert-Position/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0074-Search-a-2D-Matrix/Solution.java",
+      "blob": "6787f06a4da1b16ae68f4ad53a48af1c9b013e77",
+      "bytes": 571,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0074-Search-a-2D-Matrix/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0081-Search-in-Rotated-Sorted-Array-II/Solution.java",
+      "blob": "4efd8ba248bc32c1de3d7129685c64653b06960f",
+      "bytes": 907,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0081-Search-in-Rotated-Sorted-Array-II/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/Solution.java",
+      "blob": "1533b45b00d0734586fc612678f0f57619940a50",
+      "bytes": 380,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0162-Find-Peak-Element/Solution.java",
+      "blob": "2e4b2440bc2b0c77acd07705e419c292a63450ea",
+      "bytes": 384,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0162-Find-Peak-Element/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0240-Search-a-2D-Matrix-II/Solution.java",
+      "blob": "f1452ea7d901bf20428297cff88dd9216916b3ce",
+      "bytes": 437,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0240-Search-a-2D-Matrix-II/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0410-Split-Array-Largest-Sum/Solution.java",
+      "blob": "a7f16c79d1d25de3179dae709cbc0a9c4b58b936",
+      "bytes": 814,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0410-Split-Array-Largest-Sum/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0704-Binary-Search/Solution.java",
+      "blob": "09579b554582ea5c9ba13e0a3da7cd0d23550b94",
+      "bytes": 433,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0704-Binary-Search/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/0875-Koko-Eating-Bananas/Solution.java",
+      "blob": "0c186ece7b2e5b01ec27dca83b05d9f4d5b35bc5",
+      "bytes": 679,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/0875-Koko-Eating-Bananas/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/1011-Capacity-To-Ship-Packages-Within-D-Days/Solution.java",
+      "blob": "29bfd5bb59dcb1ddac93f314b0bab5dc35b8e1a3",
+      "bytes": 863,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/1011-Capacity-To-Ship-Packages-Within-D-Days/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Solution.java",
+      "blob": "4487edeaa5b8ae5897b1b75c28b2b72195e9b8de",
+      "bytes": 699,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java",
+      "blob": "2db0c2079d037e7f84d1fa218907f106c63ca2b2",
+      "bytes": 1048,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/1552-Magnetic-Force-Between-Two-Balls/Solution.java",
+      "blob": "efd3e0e347d7ddf44366b634aa4fc586dbbdc061",
+      "bytes": 885,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/1552-Magnetic-Force-Between-Two-Balls/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/04-Binary-Search/README.md",
+      "blob": "cea1bab5ccab26447ef157896d4b3a3a8fc068fc",
+      "bytes": 2238,
+      "new_path": "00-DSA-Roadmap/08-Binary-Search/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0002-Add-Two-Numbers/AddTwoNumbers.java",
+      "blob": "2ec5b03e78d2d7440ce914f2bfe1a58eab50d93e",
+      "bytes": 1453,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0002-Add-Two-Numbers/AddTwoNumbers.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0002-Add-Two-Numbers/Output.txt",
+      "blob": "67298eb74a41d6e0694cbac2d67f14a2c4e89584",
+      "bytes": 174,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0002-Add-Two-Numbers/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0002-Add-Two-Numbers/README.md",
+      "blob": "f390deed6a44b55727d7925c540978aacda4c72b",
+      "bytes": 344,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0002-Add-Two-Numbers/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0019-Remove-Nth-Node-From-End-of-List/Output.txt",
+      "blob": "9537231c0d0194ca8035300ddd75b7a1782e4613",
+      "bytes": 238,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0019-Remove-Nth-Node-From-End-of-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0019-Remove-Nth-Node-From-End-of-List/README.md",
+      "blob": "09fdf9dacb42d727d821ae9d7546011c0d926e7f",
+      "bytes": 266,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0019-Remove-Nth-Node-From-End-of-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0019-Remove-Nth-Node-From-End-of-List/RemoveNthNodeFromEnd.java",
+      "blob": "57731c38c28428a0a13ffcb73bdac0b450f62cce",
+      "bytes": 1382,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0019-Remove-Nth-Node-From-End-of-List/RemoveNthNodeFromEnd.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0021-Merge-Two-Sorted-Lists/MergeTwoSortedLinkedLists.java",
+      "blob": "09a64e523b1e08dad7d5e8c49e02fc0ce6f24ceb",
+      "bytes": 1411,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0021-Merge-Two-Sorted-Lists/MergeTwoSortedLinkedLists.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0021-Merge-Two-Sorted-Lists/Output.txt",
+      "blob": "81b301b72e5fd4c304e2e5d81d4082fe71e1291c",
+      "bytes": 102,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0021-Merge-Two-Sorted-Lists/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0021-Merge-Two-Sorted-Lists/README.md",
+      "blob": "6fb235f0e63a2e6b9cb1fc63b04c2fa5bf2e33b8",
+      "bytes": 313,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0021-Merge-Two-Sorted-Lists/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0024-Swap-Nodes-in-Pairs/Output.txt",
+      "blob": "8c63b2ee1926257bca618c75497e25d2a7d2cc9d",
+      "bytes": 176,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0024-Swap-Nodes-in-Pairs/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0024-Swap-Nodes-in-Pairs/README.md",
+      "blob": "3d23029db0098c77964586048db6eece890b6683",
+      "bytes": 247,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0024-Swap-Nodes-in-Pairs/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0024-Swap-Nodes-in-Pairs/SwapNodesInPairs.java",
+      "blob": "29d78a80d6a47d133116a8faf02e02f20d03b62d",
+      "bytes": 1210,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0024-Swap-Nodes-in-Pairs/SwapNodesInPairs.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0025-Reverse-Nodes-in-k-Group/Output.txt",
+      "blob": "2a4de1e7f1880df65315cad7be5b5c53e13b7bc4",
+      "bytes": 228,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0025-Reverse-Nodes-in-k-Group/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0025-Reverse-Nodes-in-k-Group/README.md",
+      "blob": "746045baad4611b060fa1e880b780ab10e3ddde6",
+      "bytes": 307,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0025-Reverse-Nodes-in-k-Group/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0025-Reverse-Nodes-in-k-Group/ReverseNodesInKGroup.java",
+      "blob": "0545c9a57d41b402c62d050f621eb30d4959947c",
+      "bytes": 1366,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0025-Reverse-Nodes-in-k-Group/ReverseNodesInKGroup.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0061-Rotate-List/Output.txt",
+      "blob": "0f629b80ef8e0389bce5e916a3c07b77c023a918",
+      "bytes": 218,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0061-Rotate-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0061-Rotate-List/README.md",
+      "blob": "223830150edab43b30ccbaef3952ca6725b41888",
+      "bytes": 294,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0061-Rotate-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0061-Rotate-List/RotateLinkedList.java",
+      "blob": "1fdff93f03688fb816d34591547032d0dd4e713b",
+      "bytes": 1491,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0061-Rotate-List/RotateLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0138-Copy-List-with-Random-Pointer/CopyListWithRandomPointer.java",
+      "blob": "81db10104ce9e37a89c6e47ad83eaa6e59f2815d",
+      "bytes": 1837,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0138-Copy-List-with-Random-Pointer/CopyListWithRandomPointer.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0138-Copy-List-with-Random-Pointer/Output.txt",
+      "blob": "761080df217022fe8fe6959116a875c7189acfbf",
+      "bytes": 162,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0138-Copy-List-with-Random-Pointer/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0138-Copy-List-with-Random-Pointer/README.md",
+      "blob": "bfd7dc4b4ebad5fd20ecd77e2fa8f14e83ce190d",
+      "bytes": 387,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0138-Copy-List-with-Random-Pointer/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0141-Linked-List-Cycle/DetectCycleInLinkedList.java",
+      "blob": "327416becdc107476d21dcb5959b56baf4df0612",
+      "bytes": 953,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0141-Linked-List-Cycle/DetectCycleInLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0141-Linked-List-Cycle/Output.txt",
+      "blob": "53c7a367aa635dd7f178bde18ec40ef9826baaa7",
+      "bytes": 46,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0141-Linked-List-Cycle/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0141-Linked-List-Cycle/README.md",
+      "blob": "27a8b718abe93c9f01d58091564fe9e41963dfe2",
+      "bytes": 320,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0141-Linked-List-Cycle/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0142-Linked-List-Cycle-II/FindStartOfCycle.java",
+      "blob": "4d940438a310c452d9c6892e9831a05d0d132903",
+      "bytes": 1297,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0142-Linked-List-Cycle-II/FindStartOfCycle.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0142-Linked-List-Cycle-II/Output.txt",
+      "blob": "efa575bdabed823753f8a09ca4ea20d33de9484a",
+      "bytes": 54,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0142-Linked-List-Cycle-II/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0142-Linked-List-Cycle-II/README.md",
+      "blob": "1b66f5b35da2096dc7bd84f53fe5df2211b1e19c",
+      "bytes": 344,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0142-Linked-List-Cycle-II/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0143-Reorder-List/Output.txt",
+      "blob": "8269047f6b4c8b8b3eca924d102dbe17c6011c0d",
+      "bytes": 192,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0143-Reorder-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0143-Reorder-List/README.md",
+      "blob": "9b84cb83df6fed600eae81afaf7b5f85f4bb6a39",
+      "bytes": 293,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0143-Reorder-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0143-Reorder-List/ReorderLinkedList.java",
+      "blob": "41726ee886aed034a75a13b5da045d49ad78b1a8",
+      "bytes": 1669,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0143-Reorder-List/ReorderLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0148-Sort-List/Output.txt",
+      "blob": "8004d663b81ac9c48b80fb901a6859cfcc9a3fa9",
+      "bytes": 188,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0148-Sort-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0148-Sort-List/README.md",
+      "blob": "bc76af54143827983d5d007a222d339f4209b2a4",
+      "bytes": 270,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0148-Sort-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0148-Sort-List/SortLinkedList.java",
+      "blob": "90d3e8777f6bc958f96abb18877c3029b504d090",
+      "bytes": 1707,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0148-Sort-List/SortLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0160-Intersection-of-Two-Linked-Lists/IntersectionOfTwoLinkedLists.java",
+      "blob": "f40e229474061f81b3ec1a9781c2a0e1f237afaf",
+      "bytes": 1075,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0160-Intersection-of-Two-Linked-Lists/IntersectionOfTwoLinkedLists.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0160-Intersection-of-Two-Linked-Lists/Output.txt",
+      "blob": "7a7a02bb98f5aaf16a7f500683c8be3e05eb95cb",
+      "bytes": 48,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0160-Intersection-of-Two-Linked-Lists/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0160-Intersection-of-Two-Linked-Lists/README.md",
+      "blob": "1fd1992872baef62894024c0d2854917e7b93ab3",
+      "bytes": 286,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0160-Intersection-of-Two-Linked-Lists/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0206-Reverse-Linked-List/Output.txt",
+      "blob": "96be17f6cdc33fa8c7c286c6c14746a4057fa4d2",
+      "bytes": 192,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0206-Reverse-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0206-Reverse-Linked-List/README.md",
+      "blob": "919e8007570f20f2656a29e98f1d0d63ddcb6cc6",
+      "bytes": 263,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0206-Reverse-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0206-Reverse-Linked-List/ReverseLinkedList.java",
+      "blob": "f1376782024c6408d4d7b47e8dba2a4c8c485a9c",
+      "bytes": 1106,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0206-Reverse-Linked-List/ReverseLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0234-Palindrome-Linked-List/CheckPalindromeLinkedList.java",
+      "blob": "8a05884583be1bea02032ade957b45a27b1c69b9",
+      "bytes": 1311,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0234-Palindrome-Linked-List/CheckPalindromeLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0234-Palindrome-Linked-List/Output.txt",
+      "blob": "ab472cd41b917788464da931735e1a22ce9eee1d",
+      "bytes": 38,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0234-Palindrome-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0234-Palindrome-Linked-List/README.md",
+      "blob": "b21fe7ceeba79e0b808c25f78223cca9454cc418",
+      "bytes": 303,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0234-Palindrome-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0237-Delete-Node-in-a-Linked-List/DeleteNodeWithoutHead.java",
+      "blob": "e95c7501b9192aaa60e2ab2c23d0c95ff1621544",
+      "bytes": 1086,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0237-Delete-Node-in-a-Linked-List/DeleteNodeWithoutHead.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0237-Delete-Node-in-a-Linked-List/Output.txt",
+      "blob": "42aba72150d37f4752bcb71fbfaba260ba52db16",
+      "bytes": 196,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0237-Delete-Node-in-a-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0237-Delete-Node-in-a-Linked-List/README.md",
+      "blob": "1fadc55977abdec3205d2b4a5cb76795bc2fb0a3",
+      "bytes": 306,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0237-Delete-Node-in-a-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0328-Odd-Even-Linked-List/OddEvenLinkedList.java",
+      "blob": "40bf5c5616b2e9ffeea6400211eed7887bc99c76",
+      "bytes": 1300,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0328-Odd-Even-Linked-List/OddEvenLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0328-Odd-Even-Linked-List/Output.txt",
+      "blob": "0395c91df23f7188b1c5283f7de578752bd6ced6",
+      "bytes": 234,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0328-Odd-Even-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0328-Odd-Even-Linked-List/README.md",
+      "blob": "52fb1dd8eee6a5238885bd1aa9d217e12004df71",
+      "bytes": 339,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0328-Odd-Even-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0430-Flatten-a-Multilevel-Doubly-Linked-List/FlattenMultilevelLinkedList.java",
+      "blob": "2f96fcc78a64464bfc396f8a2db2a193d3db40e2",
+      "bytes": 1393,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Flatten-Multilevel-Singly-Linked-List/FlattenMultilevelLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0430-Flatten-a-Multilevel-Doubly-Linked-List/Output.txt",
+      "blob": "6df5f504c1181f0ff39bd4dca164da6f754fbb5d",
+      "bytes": 98,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Flatten-Multilevel-Singly-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0430-Flatten-a-Multilevel-Doubly-Linked-List/README.md",
+      "blob": "4591d70245336baa48a1c81e4658c508f5fa06b1",
+      "bytes": 413,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Flatten-Multilevel-Singly-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0876-Middle-of-the-Linked-List/FindMiddleOfLinkedList.java",
+      "blob": "f1dcdcc31aeac2e39443b8ffad3f0ca5a22cfb4c",
+      "bytes": 887,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0876-Middle-of-the-Linked-List/FindMiddleOfLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0876-Middle-of-the-Linked-List/Output.txt",
+      "blob": "931282267d01878dac56c4fe8aeb955e2d7cab83",
+      "bytes": 120,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0876-Middle-of-the-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/0876-Middle-of-the-Linked-List/README.md",
+      "blob": "21a674f972e4da71d61d0e8b139c6a647126d12a",
+      "bytes": 273,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/0876-Middle-of-the-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Create-and-Traverse-Linked-List/CreateAndTraverseLinkedList.java",
+      "blob": "3423751a1fdb174f94c78fedb3193c2685dbf90f",
+      "bytes": 865,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Create-and-Traverse-Linked-List/CreateAndTraverseLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Create-and-Traverse-Linked-List/Output.txt",
+      "blob": "d007bba361fc0d633f0f18c50c9fcc1ed6bdce7e",
+      "bytes": 50,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Create-and-Traverse-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Create-and-Traverse-Linked-List/README.md",
+      "blob": "796350102de746355ae1f46fbc3893d5b2f536f9",
+      "bytes": 516,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Create-and-Traverse-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-First-Node/DeleteFirstNode.java",
+      "blob": "e6889dd6714e489ac27214db899c3cbc603d3252",
+      "bytes": 935,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-First-Node/DeleteFirstNode.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-First-Node/Output.txt",
+      "blob": "bc0343bc23087d4e2bc9ba10a871368abfe927c6",
+      "bytes": 178,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-First-Node/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-First-Node/README.md",
+      "blob": "f041ec01cfce33cbf5c07858aabe6b7e0b43b779",
+      "bytes": 220,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-First-Node/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-Last-Node/DeleteLastNode.java",
+      "blob": "6ae8414e1b95a5618cd0d18cca6b2ac28495025f",
+      "bytes": 1083,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-Last-Node/DeleteLastNode.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-Last-Node/Output.txt",
+      "blob": "c65cb0b7a644b83b0b55981f9fa4251a48cde399",
+      "bytes": 176,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-Last-Node/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-Last-Node/README.md",
+      "blob": "95bd96d8ad70842fea84d3834903bdfe37471a58",
+      "bytes": 260,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-Last-Node/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-at-Given-Position/DeleteAtGivenPosition.java",
+      "blob": "5b5c76e375b93b3cdaacb3e443651bf57f1a4c6c",
+      "bytes": 1384,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-at-Given-Position/DeleteAtGivenPosition.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-at-Given-Position/Output.txt",
+      "blob": "673b67d50869d03c2f5427e745a4f8465f76e1d0",
+      "bytes": 202,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-at-Given-Position/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Delete-at-Given-Position/README.md",
+      "blob": "196b6898d0dcedbcff5c3e111a7496e12f41fb11",
+      "bytes": 283,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Delete-at-Given-Position/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Find-Length-of-Linked-List/FindLengthOfLinkedList.java",
+      "blob": "7aba5e262e152b6c719fec0228527645354bb1a8",
+      "bytes": 753,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Find-Length-of-Linked-List/FindLengthOfLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Find-Length-of-Linked-List/Output.txt",
+      "blob": "1280be1a220144dbcaafee5c652d9ee7028581ce",
+      "bytes": 96,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Find-Length-of-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Find-Length-of-Linked-List/README.md",
+      "blob": "34455d85913ed73805e64bfb627da68ef67c3ff6",
+      "bytes": 253,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Find-Length-of-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-Beginning/InsertAtBeginning.java",
+      "blob": "6f336892f3fa1ff7af60143f604a865bc66f1a29",
+      "bytes": 960,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-Beginning/InsertAtBeginning.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-Beginning/Output.txt",
+      "blob": "e31acfc7193e74bc651ecadcf49cd184bb94c3b9",
+      "bytes": 182,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-Beginning/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-Beginning/README.md",
+      "blob": "8c33000ff8ae5e46305de9f7ffe42a2bca56e139",
+      "bytes": 291,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-Beginning/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-End/InsertAtEnd.java",
+      "blob": "0f20def2682f15d8ba7314580a4a908508744574",
+      "bytes": 1100,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-End/InsertAtEnd.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-End/Output.txt",
+      "blob": "fbd49016358737d126ce7ce9207f4a71555537fc",
+      "bytes": 184,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-End/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-End/README.md",
+      "blob": "e1afc1650bf63bc8bda51b44ae9379fa459562a2",
+      "bytes": 285,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-End/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-Given-Position/InsertAtGivenPosition.java",
+      "blob": "a57f333c36b11f1f7efbf120d68bf70f15dfd0e7",
+      "bytes": 1372,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-Given-Position/InsertAtGivenPosition.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-Given-Position/Output.txt",
+      "blob": "23ae5d1606d48e2478c91867986c7789aa37a5ac",
+      "bytes": 212,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-Given-Position/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Insert-at-Given-Position/README.md",
+      "blob": "d17b4a6c617b4432c707fc6f88853a299e136c65",
+      "bytes": 286,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Insert-at-Given-Position/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Merge-Sort-on-Linked-List/MergeSortOnLinkedList.java",
+      "blob": "ab9f704ad43175b7ae67935839d033cc05d029a3",
+      "bytes": 1840,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Merge-Sort-on-Linked-List/MergeSortOnLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Merge-Sort-on-Linked-List/Output.txt",
+      "blob": "701122d9688ae6d22fd2c5842d2a09366e5626e8",
+      "bytes": 224,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Merge-Sort-on-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Merge-Sort-on-Linked-List/README.md",
+      "blob": "66cf0ab0b703ce1acd7aef9ee640dc3423ac70bc",
+      "bytes": 305,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Merge-Sort-on-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Remove-Cycle-from-Linked-List/Output.txt",
+      "blob": "371d49c95d43cc75559257bbf6b38686e0f25979",
+      "bytes": 108,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Remove-Cycle-from-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Remove-Cycle-from-Linked-List/README.md",
+      "blob": "501d0f50149f1718ee66bd85b9d6b3cc18d18729",
+      "bytes": 330,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Remove-Cycle-from-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Remove-Cycle-from-Linked-List/RemoveCycleFromLinkedList.java",
+      "blob": "a830e0fc018e9fc58ab31e05359f267da5a47a78",
+      "bytes": 1726,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Remove-Cycle-from-Linked-List/RemoveCycleFromLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Search-in-Linked-List/Output.txt",
+      "blob": "f348fc52f89f570c333f0d9180eae74936bd8573",
+      "bytes": 112,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Search-in-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Search-in-Linked-List/README.md",
+      "blob": "ef96943a28083ffad14e3d787c8a96e20dd83c4b",
+      "bytes": 267,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Search-in-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Search-in-Linked-List/SearchInLinkedList.java",
+      "blob": "a1d961427ab928d728dab7d2a11d1eb3deb49582",
+      "bytes": 899,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Search-in-Linked-List/SearchInLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Zig-Zag-Linked-List/Output.txt",
+      "blob": "9b9ecd1ea4afe36e42fec5bda3c8210b5e325b33",
+      "bytes": 192,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Zig-Zag-Linked-List/Output.txt"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Zig-Zag-Linked-List/README.md",
+      "blob": "27087735e7bcef6da7a141f2ffbae4b326b007bc",
+      "bytes": 317,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Zig-Zag-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/Fundamentals/Zig-Zag-Linked-List/ZigZagLinkedList.java",
+      "blob": "6b7146ecff4a129c1109fa8612a0e440aa3a8054",
+      "bytes": 1754,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/Fundamentals/Zig-Zag-Linked-List/ZigZagLinkedList.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/05-Linked-List/README.md",
+      "blob": "97382d4bff3fc82b911641d723f5aa009b389817",
+      "bytes": 670,
+      "new_path": "00-DSA-Roadmap/11-Linked-List/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0020-Valid-Parentheses/Solution.java",
+      "blob": "18c5a7decfe43a4b8d50c09a4f885fb156f45f4b",
+      "bytes": 637,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0071-Simplify-Path/Solution.java",
+      "blob": "78356cb0f37061ad2bca4c694f3263792ff7ae25",
+      "bytes": 759,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0071-Simplify-Path/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0084-Largest-Rectangle-in-Histogram/Solution.java",
+      "blob": "e4460cc96149add3d1101b093fcc6f60f41f6736",
+      "bytes": 745,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0084-Largest-Rectangle-in-Histogram/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0150-Evaluate-Reverse-Polish-Notation/Solution.java",
+      "blob": "39c317a4020b4f51250250ce66d19941aa5bba47",
+      "bytes": 857,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0150-Evaluate-Reverse-Polish-Notation/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0155-Min-Stack/Solution.java",
+      "blob": "13491eec261eadfe524f562f0934e236490fa370",
+      "bytes": 595,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0155-Min-Stack/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0225-Implement-Stack-Using-Queues/Solution.java",
+      "blob": "c1f3996ee47ddf06f5842a66ce3842972977faff",
+      "bytes": 511,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0225-Implement-Stack-using-Queues/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0232-Implement-Queue-Using-Stacks/Solution.java",
+      "blob": "c15dd47ff50dec34a64e4e0856a3dccc231ad8cb",
+      "bytes": 650,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0232-Implement-Queue-using-Stacks/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0239-Sliding-Window-Maximum/Solution.java",
+      "blob": "cc72fe664d414e5d27e3c01e6b8ad01bb110457e",
+      "bytes": 736,
+      "new_path": "00-DSA-Roadmap/07-Sliding-Window/0239-Sliding-Window-Maximum/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0394-Decode-String/Solution.java",
+      "blob": "c8a5e8b29d30d6c18bc4504e1470f1c961baa0a3",
+      "bytes": 1026,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0496-Next-Greater-Element-I/Solution.java",
+      "blob": "1351ac329aa61eeb6fea78713059115f7d3d1d85",
+      "bytes": 675,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0496-Next-Greater-Element-I/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0622-Design-Circular-Queue/Solution.java",
+      "blob": "a002d9b1a8dfe01e42a0e23312a36af909c0573a",
+      "bytes": 942,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0622-Design-Circular-Queue/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0641-Design-Circular-Deque/Solution.java",
+      "blob": "25719cec9acdafd12abfc3c67ceb59da844fee84",
+      "bytes": 1262,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0641-Design-Circular-Deque/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0739-Daily-Temperatures/Solution.java",
+      "blob": "ef757079355dc254e9c4af00d54724343c3d0621",
+      "bytes": 571,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0739-Daily-Temperatures/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/0901-Online-Stock-Span/Solution.java",
+      "blob": "6362e9a7e3aeb3d2d7c4ff54cafa6ed20422183f",
+      "bytes": 374,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/0901-Online-Stock-Span/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/06-Stacks-Queue/README.md",
+      "blob": "4f0d7f22edbc9670334a9f5557900b9aad56d05a",
+      "bytes": 1281,
+      "new_path": "00-DSA-Roadmap/12-Stacks-and-Queues/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0094-Binary-Tree-Inorder-Traversal/Solution.java",
+      "blob": "405a4d40f806d5f7b2d29b55be551fd08f6b0729",
+      "bytes": 453,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0094-Binary-Tree-Inorder-Traversal/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0100-Same-Tree/Solution.java",
+      "blob": "90c0202ac5a26f968f3a3d3278a61dfc38748900",
+      "bytes": 274,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0100-Same-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0101-Symmetric-Tree/Solution.java",
+      "blob": "5967484cd42c1b1354f3c061b294bad1c3de32ed",
+      "bytes": 430,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0101-Symmetric-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0102-Binary-Tree-Level-Order-Traversal/Solution.java",
+      "blob": "8a7ea5a41e1a94a4d8e9a9a36d472e4373caed26",
+      "bytes": 831,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0102-Binary-Tree-Level-Order-Traversal/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0104-Maximum-Depth-of-Binary-Tree/Solution.java",
+      "blob": "d87c8dade49614a87246b1291bdbba08134bdf63",
+      "bytes": 175,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0104-Maximum-Depth-of-Binary-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0110-Balanced-Binary-Tree/Solution.java",
+      "blob": "5ef29f48dbc9f4b54dac0805cf6a75ef1d2a55ab",
+      "bytes": 436,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0110-Balanced-Binary-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0144-Binary-Tree-Preorder-Traversal/Solution.java",
+      "blob": "65eca9bd3687861a3735436ed4908ff09ecf27bc",
+      "bytes": 454,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0144-Binary-Tree-Preorder-Traversal/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0145-Binary-Tree-Postorder-Traversal/Solution.java",
+      "blob": "bade1084f3b10aafe977d9c6f5be5e26045faa32",
+      "bytes": 455,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0145-Binary-Tree-Postorder-Traversal/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0226-Invert-Binary-Tree/Solution.java",
+      "blob": "2be1fe0baa18d132d8aa92648fe1f167888066b9",
+      "bytes": 286,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0226-Invert-Binary-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/0543-Diameter-of-Binary-Tree/Solution.java",
+      "blob": "b772a02c97bf4990c5631afcfa54bf5e8883132a",
+      "bytes": 415,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/0543-Diameter-of-Binary-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/07-Trees/README.md",
+      "blob": "d1150df1f686da48fb7e25195c0b9adba976b1c4",
+      "bytes": 1665,
+      "new_path": "00-DSA-Roadmap/15-Binary-Trees/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0098-Validate-Binary-Search-Tree/Solution.java",
+      "blob": "38e4676802104c26327cd176c35bd55dd9b159dc",
+      "bytes": 388,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0098-Validate-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0108-Convert-Sorted-Array-to-BST/Solution.java",
+      "blob": "2c01a4df73b120721de60bae924f74ff32461e37",
+      "bytes": 443,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0108-Convert-Sorted-Array-to-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0109-Convert-Sorted-List-to-BST/Solution.java",
+      "blob": "9954551d5add28be9173a96bfe110e226af1b4c4",
+      "bytes": 585,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0109-Convert-Sorted-List-to-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0230-Kth-Smallest-Element-in-a-BST/Solution.java",
+      "blob": "0a01365557549fd1f53f23bb84611f834bdf738a",
+      "bytes": 488,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0230-Kth-Smallest-Element-in-a-BST/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0235-Lowest-Common-Ancestor-of-a-BST/Solution.java",
+      "blob": "e15485affe5d88b58dcf2f1263c1db6187f42391",
+      "bytes": 348,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0450-Delete-Node-in-a-BST/Solution.java",
+      "blob": "929d053fb120648c8f003df98701cac8f68d7398",
+      "bytes": 635,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0450-Delete-Node-in-a-BST/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0501-Find-Mode-in-Binary-Search-Tree/Solution.java",
+      "blob": "e3402c89fa34457de5e3aa650f644716fc39d2ab",
+      "bytes": 689,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0501-Find-Mode-in-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0530-Minimum-Absolute-Difference-in-BST/Solution.java",
+      "blob": "e9b25e8a5201a68c9a9deaa73c236a1cd4b80ad4",
+      "bytes": 447,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0530-Minimum-Absolute-Difference-in-BST/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0653-Two-Sum-IV-Input-is-a-BST/Solution.java",
+      "blob": "414814d641360ff3856622583ce2ac88b2cf0072",
+      "bytes": 463,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0653-Two-Sum-IV-Input-is-a-BST/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0669-Trim-a-Binary-Search-Tree/Solution.java",
+      "blob": "c81d945eacbbc4c617a3ae3d86d2581ad62b4066",
+      "bytes": 386,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0669-Trim-a-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0700-Search-in-a-Binary-Search-Tree/Solution.java",
+      "blob": "8ba7e7cff71c380812625eb4d888562d8e6a9f2f",
+      "bytes": 221,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0700-Search-in-a-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0701-Insert-into-a-Binary-Search-Tree/Solution.java",
+      "blob": "cf66a2ab8aef39089366b383bb3f4b74b430f831",
+      "bytes": 286,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0701-Insert-into-a-Binary-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0897-Increasing-Order-Search-Tree/Solution.java",
+      "blob": "30a8dca80286fe983f9cdfa0469de29696da8def",
+      "bytes": 492,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0897-Increasing-Order-Search-Tree/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/0938-Range-Sum-of-BST/Solution.java",
+      "blob": "8c415321951538280add1bdb9fc6ee552a79ef83",
+      "bytes": 363,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/0938-Range-Sum-of-BST/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/1008-Construct-BST-from-Preorder-Traversal/Solution.java",
+      "blob": "367c4bc217ce00daf5fc181c99d564d5519aa3fd",
+      "bytes": 583,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/Solution.java"
+    },
+    {
+      "path": "00-DSA-Roadmap/08-Binary-Search-Trees/README.md",
+      "blob": "237a6548b175afd173bffb365f05bdbdc7f7b9d7",
+      "bytes": 1745,
+      "new_path": "00-DSA-Roadmap/16-Binary-Search-Trees/README.md"
+    },
+    {
+      "path": "00-DSA-Roadmap/README.md",
+      "blob": "5f61c2f47a9e616a86c37f144d2526129c93eca1",
+      "bytes": 830,
+      "new_path": "00-DSA-Roadmap/README.md"
+    },
+    {
+      "path": "README.md",
+      "blob": "2f9d0e1b4113b146a7a25f6a585cd8955e8c3097",
+      "bytes": 1661,
+      "new_path": "README.md"
+    }
+  ]
+}

@@ -46,3 +46,10 @@ Output:
 ## Interview Pattern
 
 Binary Search / Modified Binary Search
+
+## Preserved implementations
+
+One canonical problem folder contains the original variants. Compile each Java file separately; these are existing implementations, not additional solved problems.
+
+- [SearchInRotatedSortedArray.java](SearchInRotatedSortedArray.java)
+- [Solution.java](Solution.java)

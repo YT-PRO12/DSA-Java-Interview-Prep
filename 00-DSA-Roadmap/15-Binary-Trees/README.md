@@ -1,53 +1,53 @@
-# Trees
+# Binary Trees
 
-A curated Java interview-preparation set covering binary tree recursion, DFS traversals, BFS level order, structural comparison, height, balance, and diameter patterns.
+[Roadmap](../README.md) · [Repository guide](../../README.md)
 
-## Current Problem Set
+Apply recursion and queues to binary-tree traversal, structural comparison, height, balance, and diameter.
 
-| LeetCode | Problem | Difficulty | Pattern |
-|---:|---|---|---|
-| 94 | Binary Tree Inorder Traversal | Easy | DFS traversal |
-| 100 | Same Tree | Easy | Structural recursion |
-| 101 | Symmetric Tree | Easy | Mirror recursion |
-| 102 | Binary Tree Level Order Traversal | Medium | BFS |
-| 104 | Maximum Depth of Binary Tree | Easy | Height recursion |
-| 110 | Balanced Binary Tree | Easy | Postorder + height |
-| 144 | Binary Tree Preorder Traversal | Easy | DFS traversal |
-| 145 | Binary Tree Postorder Traversal | Easy | DFS traversal |
-| 226 | Invert Binary Tree | Easy | Recursive transformation |
-| 543 | Diameter of Binary Tree | Easy | Postorder + height |
+## Concepts Covered
 
-## Pattern Progression
+- Preorder, inorder and postorder DFS
+- Breadth-first level order
+- Structural and mirror recursion
+- Postorder aggregation for height and diameter
 
-```text
-TreeNode Basics
-      ↓
-Recursive DFS
-      ↓
-Preorder / Inorder / Postorder
-      ↓
-Structural Comparison
-      ↓
-Breadth-First Search
-      ↓
-Height / Balance
-      ↓
-Diameter / Tree DP
-```
+## Problem Index
 
-## Naming Convention
+| # | LeetCode | Problem | Difficulty | Pattern | Solution |
+|---:|---:|---|---|---|---|
+| 1 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Inorder DFS | [Java](0094-Binary-Tree-Inorder-Traversal/Solution.java) |
+| 2 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Structural recursion | [Java](0100-Same-Tree/Solution.java) |
+| 3 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Mirror recursion | [Java](0101-Symmetric-Tree/Solution.java) |
+| 4 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Breadth-first levels | [Java](0102-Binary-Tree-Level-Order-Traversal/Solution.java) |
+| 5 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Recursive height | [Java](0104-Maximum-Depth-of-Binary-Tree/Solution.java) |
+| 6 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Postorder height sentinel | [Java](0110-Balanced-Binary-Tree/Solution.java) |
+| 7 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Preorder DFS | [Java](0144-Binary-Tree-Preorder-Traversal/Solution.java) |
+| 8 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | Postorder DFS | [Java](0145-Binary-Tree-Postorder-Traversal/Solution.java) |
+| 9 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | See implementation and notes | [Java](0226-Invert-Binary-Tree/Solution.java) |
+| 10 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Postorder diameter | [Java](0543-Diameter-of-Binary-Tree/Solution.java) |
 
-Each official LeetCode problem follows:
+## Learning Progression
 
-```text
-XXXX-Problem-Name/
-└── Solution.java
-```
+1. TreeNode and DFS
+2. Structural comparison
+3. Breadth-first levels
+4. Height, balance and diameter
 
-## Interview Notes
+## Interview Essentials
 
-- Most tree problems reduce naturally to recursion on left and right subtrees.
-- Decide whether your recursive function should return a value or update shared state.
-- Postorder is especially useful when a parent depends on information from both children.
-- BFS is the standard choice when the problem is level-oriented.
-- For height-based problems, avoid recomputing subtree heights when one traversal can return them.
+- Use postorder when a parent depends on child results.
+- Count diameter in edges while the helper returns height in nodes.
+- A traversal is O(n), but recursive stack space is O(h), which can reach O(n).
+- Use a fresh Solution instance for preserved stateful examples, including Diameter.
+
+## Learning Outcomes
+
+Choose a traversal order, define a recursive return contract, and avoid recomputing subtree heights.
+
+## Related Practice
+
+- [98. Validate Binary Search Tree](../16-Binary-Search-Trees/0098-Validate-Binary-Search-Tree)
+- [108. Convert Sorted Array to Binary Search Tree](../16-Binary-Search-Trees/0108-Convert-Sorted-Array-to-Binary-Search-Tree)
+- [230. Kth Smallest Element in a BST](../16-Binary-Search-Trees/0230-Kth-Smallest-Element-in-a-BST)
+
+Counts reflect files in this repository, not verified LeetCode acceptances. See the [validation report](../../docs/VALIDATION.md) for the verification scope.
