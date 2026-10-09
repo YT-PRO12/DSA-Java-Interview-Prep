@@ -1,0 +1,1326 @@
+{
+  "source": "https://leetcode.com/api/problems/all/",
+  "verified_on": "2026-10-09",
+  "problems": [
+    {
+      "id": 48,
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image",
+      "solution": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/RotateMatrix.java",
+      "pattern": "Matrix / Transpose + Reverse",
+      "provenance": "preserved"
+    },
+    {
+      "id": 53,
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray",
+      "solution": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/KadaneMaximumSubarray.java",
+      "pattern": "Kadane's Algorithm / Dynamic Programming",
+      "provenance": "preserved"
+    },
+    {
+      "id": 73,
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes",
+      "solution": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/SetMatrixZeroes.java",
+      "pattern": "Matrix / In-Place Modification",
+      "provenance": "preserved"
+    },
+    {
+      "id": 169,
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element",
+      "solution": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/MajorityElement.java",
+      "pattern": "Moore's Voting Algorithm",
+      "provenance": "preserved"
+    },
+    {
+      "id": 229,
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II",
+      "solution": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/MajorityElementII.java",
+      "pattern": "Extended Moore's Voting Algorithm",
+      "provenance": "preserved"
+    },
+    {
+      "id": 485,
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones",
+      "solution": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/MaximumConsecutiveOnes.java",
+      "pattern": "Array Traversal / Counting",
+      "provenance": "preserved"
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring",
+      "solution": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/LongestPalindromicSubstring.java",
+      "pattern": "Two Pointers / Expand Around Center",
+      "provenance": "preserved"
+    },
+    {
+      "id": 8,
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi",
+      "solution": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/StringToIntegerAtoi.java",
+      "pattern": "String Parsing / Simulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 14,
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix",
+      "solution": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/LongestCommonPrefix.java",
+      "pattern": "String Traversal / Prefix Matching",
+      "provenance": "preserved"
+    },
+    {
+      "id": 28,
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String",
+      "solution": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/ImplementStrStr.java",
+      "pattern": "String Matching / Two Pointers",
+      "provenance": "preserved"
+    },
+    {
+      "id": 43,
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings",
+      "solution": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/MultiplyStrings.java",
+      "pattern": "String Simulation / Mathematical Multiplication",
+      "provenance": "preserved"
+    },
+    {
+      "id": 165,
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers",
+      "solution": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/CompareVersionNumbers.java",
+      "pattern": "String Parsing / Simulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 415,
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/02-Strings/0415-Add-Strings",
+      "solution": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/AddStrings.java",
+      "pattern": "Two Pointers / Carry / String Simulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 443,
+      "title": "String Compression",
+      "slug": "string-compression",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/02-Strings/0443-String-Compression",
+      "solution": "00-DSA-Roadmap/02-Strings/0443-String-Compression/StringCompression.java",
+      "pattern": "Two Pointers / In-Place String Modification",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1021,
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses",
+      "solution": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/RemoveOuterParentheses.java",
+      "pattern": "String Traversal / Parentheses Depth",
+      "provenance": "preserved"
+    },
+    {
+      "id": 136,
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0136-Single-Number",
+      "solution": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0136-Single-Number/SingleNumber.java",
+      "pattern": "Bit Manipulation / XOR",
+      "provenance": "preserved"
+    },
+    {
+      "id": 191,
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0191-Number-of-1-Bits",
+      "solution": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0191-Number-of-1-Bits/Solution.java",
+      "pattern": "Clear lowest set bit",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 268,
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0268-Missing-Number",
+      "solution": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0268-Missing-Number/MissingNumber.java",
+      "pattern": "Array / Mathematical Approach",
+      "provenance": "preserved"
+    },
+    {
+      "id": 75,
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/04-Sorting/0075-Sort-Colors",
+      "solution": "00-DSA-Roadmap/04-Sorting/0075-Sort-Colors/Solution.java",
+      "pattern": "Dutch national flag",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 451,
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/04-Sorting/0451-Sort-Characters-By-Frequency",
+      "solution": "00-DSA-Roadmap/04-Sorting/0451-Sort-Characters-By-Frequency/SortCharactersByFrequency.java",
+      "pattern": "HashMap / Frequency Sorting",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0001-Two-Sum",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0001-Two-Sum/TwoSum.java",
+      "pattern": "HashMap / Complement Technique",
+      "provenance": "preserved"
+    },
+    {
+      "id": 49,
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0049-Group-Anagrams",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0049-Group-Anagrams/GroupAnagrams.java",
+      "pattern": "HashMap + Sorting",
+      "provenance": "preserved"
+    },
+    {
+      "id": 128,
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0128-Longest-Consecutive-Sequence",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0128-Longest-Consecutive-Sequence/LongestConsecutiveSequence.java",
+      "pattern": "HashSet / Consecutive Sequence",
+      "provenance": "preserved"
+    },
+    {
+      "id": 205,
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0205-Isomorphic-Strings",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0205-Isomorphic-Strings/IsomorphicStrings.java",
+      "pattern": "HashMap / Character Mapping",
+      "provenance": "preserved"
+    },
+    {
+      "id": 217,
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0217-Contains-Duplicate",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0217-Contains-Duplicate/Solution.java",
+      "pattern": "Set membership",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 238,
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0238-Product-of-Array-Except-Self",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0238-Product-of-Array-Except-Self/ProductOfArrayExceptSelf.java",
+      "pattern": "Prefix Product + Suffix Product",
+      "provenance": "preserved"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0242-Valid-Anagram",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0242-Valid-Anagram/ValidAnagram.java",
+      "pattern": "Frequency Array / String",
+      "provenance": "preserved"
+    },
+    {
+      "id": 290,
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0290-Word-Pattern",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0290-Word-Pattern/WordPattern.java",
+      "pattern": "HashMap / Bidirectional Mapping",
+      "provenance": "preserved"
+    },
+    {
+      "id": 349,
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays/IntersectionOfTwoArrays.java",
+      "pattern": "Hashing / Set",
+      "provenance": "preserved"
+    },
+    {
+      "id": 560,
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0560-Subarray-Sum-Equals-K",
+      "solution": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0560-Subarray-Sum-Equals-K/SubarraySumEqualsK.java",
+      "pattern": "Prefix Sum + HashMap",
+      "provenance": "preserved"
+    },
+    {
+      "id": 11,
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/06-Two-Pointers/0011-Container-With-Most-Water",
+      "solution": "00-DSA-Roadmap/06-Two-Pointers/0011-Container-With-Most-Water/ContainerWithMostWater.java",
+      "pattern": "Two Pointers / Greedy",
+      "provenance": "preserved"
+    },
+    {
+      "id": 15,
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/06-Two-Pointers/0015-3Sum",
+      "solution": "00-DSA-Roadmap/06-Two-Pointers/0015-3Sum/ThreeSum.java",
+      "pattern": "Sorting + Two Pointers",
+      "provenance": "preserved"
+    },
+    {
+      "id": 18,
+      "title": "4Sum",
+      "slug": "4sum",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/06-Two-Pointers/0018-4Sum",
+      "solution": "00-DSA-Roadmap/06-Two-Pointers/0018-4Sum/FourSum.java",
+      "pattern": "Sorting + Two Pointers",
+      "provenance": "preserved"
+    },
+    {
+      "id": 26,
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/06-Two-Pointers/0026-Remove-Duplicates-from-Sorted-Array",
+      "solution": "00-DSA-Roadmap/06-Two-Pointers/0026-Remove-Duplicates-from-Sorted-Array/RemoveDuplicatesFromSortedArray.java",
+      "pattern": "Two Pointers / In-Place Array Modification",
+      "provenance": "preserved"
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water",
+      "solution": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water/TrappingRainWater.java",
+      "pattern": "Two Pointers / Prefix-Suffix Maximum",
+      "provenance": "preserved"
+    },
+    {
+      "id": 283,
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/06-Two-Pointers/0283-Move-Zeroes",
+      "solution": "00-DSA-Roadmap/06-Two-Pointers/0283-Move-Zeroes/MoveZeroes.java",
+      "pattern": "Two Pointers / In-Place Array Modification",
+      "provenance": "preserved"
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/LongestSubstringWithoutRepeatingCharacters.java",
+      "pattern": "See implementation and notes",
+      "provenance": "preserved"
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0076-Minimum-Window-Substring",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0076-Minimum-Window-Substring/MinimumWindowSubstring.java",
+      "pattern": "Sliding Window / Frequency Counting",
+      "provenance": "preserved"
+    },
+    {
+      "id": 209,
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0209-Minimum-Size-Subarray-Sum",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0209-Minimum-Size-Subarray-Sum/MinimumSizeSubarraySum.java",
+      "pattern": "Positive-sum shrinking window",
+      "provenance": "preserved"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0239-Sliding-Window-Maximum",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0239-Sliding-Window-Maximum/Solution.java",
+      "pattern": "Monotonic deque",
+      "provenance": "preserved"
+    },
+    {
+      "id": 424,
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0424-Longest-Repeating-Character-Replacement/LongestRepeatingCharacterReplacement.java",
+      "pattern": "See implementation and notes",
+      "provenance": "preserved"
+    },
+    {
+      "id": 438,
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0438-Find-All-Anagrams-in-a-String",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0438-Find-All-Anagrams-in-a-String/FindAllAnagramsInAString.java",
+      "pattern": "Fixed Sliding Window / Frequency Array",
+      "provenance": "preserved"
+    },
+    {
+      "id": 567,
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0567-Permutation-in-String",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0567-Permutation-in-String/PermutationInString.java",
+      "pattern": "Sliding Window + Frequency Array",
+      "provenance": "preserved"
+    },
+    {
+      "id": 643,
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0643-Maximum-Average-Subarray-I",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0643-Maximum-Average-Subarray-I/MaximumAverageSubarray.java",
+      "pattern": "Fixed-size running sum",
+      "provenance": "preserved"
+    },
+    {
+      "id": 904,
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0904-Fruit-Into-Baskets",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0904-Fruit-Into-Baskets/FruitIntoBaskets.java",
+      "pattern": "At-most-two frequency window",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1004,
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1004-Max-Consecutive-Ones-III",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1004-Max-Consecutive-Ones-III/MaxConsecutiveOnesIII.java",
+      "pattern": "At-most-k zero window",
+      "provenance": "preserved"
+    },
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array/Solution.java",
+      "pattern": "Rotated binary search",
+      "provenance": "preserved"
+    },
+    {
+      "id": 34,
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Solution.java",
+      "pattern": "First and last boundaries",
+      "provenance": "preserved"
+    },
+    {
+      "id": 35,
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0035-Search-Insert-Position",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0035-Search-Insert-Position/Solution.java",
+      "pattern": "Lower bound",
+      "provenance": "preserved"
+    },
+    {
+      "id": 74,
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0074-Search-a-2D-Matrix",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0074-Search-a-2D-Matrix/Solution.java",
+      "pattern": "Flattened binary search",
+      "provenance": "preserved"
+    },
+    {
+      "id": 81,
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0081-Search-in-Rotated-Sorted-Array-II",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0081-Search-in-Rotated-Sorted-Array-II/Solution.java",
+      "pattern": "Rotated search with duplicates",
+      "provenance": "preserved"
+    },
+    {
+      "id": 153,
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/Solution.java",
+      "pattern": "Rotated minimum",
+      "provenance": "preserved"
+    },
+    {
+      "id": 162,
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0162-Find-Peak-Element",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0162-Find-Peak-Element/Solution.java",
+      "pattern": "Slope binary search",
+      "provenance": "preserved"
+    },
+    {
+      "id": 240,
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0240-Search-a-2D-Matrix-II",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0240-Search-a-2D-Matrix-II/Solution.java",
+      "pattern": "Sorted-matrix elimination",
+      "provenance": "preserved"
+    },
+    {
+      "id": 410,
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0410-Split-Array-Largest-Sum",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0410-Split-Array-Largest-Sum/Solution.java",
+      "pattern": "Binary search on answer",
+      "provenance": "preserved"
+    },
+    {
+      "id": 704,
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0704-Binary-Search",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0704-Binary-Search/Solution.java",
+      "pattern": "Classic binary search",
+      "provenance": "preserved"
+    },
+    {
+      "id": 875,
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0875-Koko-Eating-Bananas",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0875-Koko-Eating-Bananas/Solution.java",
+      "pattern": "Minimum feasible speed",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1011,
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/1011-Capacity-To-Ship-Packages-Within-D-Days",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/1011-Capacity-To-Ship-Packages-Within-D-Days/Solution.java",
+      "pattern": "Minimum feasible capacity",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1283,
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/1283-Find-the-Smallest-Divisor-Given-a-Threshold",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Solution.java",
+      "pattern": "Minimum feasible divisor",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1482,
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "slug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/1482-Minimum-Number-of-Days-to-Make-m-Bouquets",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java",
+      "pattern": "Minimum feasible day",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1552,
+      "title": "Magnetic Force Between Two Balls",
+      "slug": "magnetic-force-between-two-balls",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/1552-Magnetic-Force-Between-Two-Balls",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/1552-Magnetic-Force-Between-Two-Balls/Solution.java",
+      "pattern": "Maximum feasible distance",
+      "provenance": "preserved"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/09-Recursion/0022-Generate-Parentheses",
+      "solution": "00-DSA-Roadmap/09-Recursion/0022-Generate-Parentheses/Solution.java",
+      "pattern": "Constrained recursion / backtracking bridge",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 50,
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/09-Recursion/0050-Pow-x-n",
+      "solution": "00-DSA-Roadmap/09-Recursion/0050-Pow-x-n/Solution.java",
+      "pattern": "Exponentiation by squaring",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 37,
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/10-Backtracking/0037-Sudoku-Solver",
+      "solution": "00-DSA-Roadmap/10-Backtracking/0037-Sudoku-Solver/Solution.java",
+      "pattern": "Grid search and pruning",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 39,
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/10-Backtracking/0039-Combination-Sum",
+      "solution": "00-DSA-Roadmap/10-Backtracking/0039-Combination-Sum/Solution.java",
+      "pattern": "Reuse choices with pruning",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 46,
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/10-Backtracking/0046-Permutations",
+      "solution": "00-DSA-Roadmap/10-Backtracking/0046-Permutations/Solution.java",
+      "pattern": "Used-index decisions",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 51,
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/10-Backtracking/0051-N-Queens",
+      "solution": "00-DSA-Roadmap/10-Backtracking/0051-N-Queens/Solution.java",
+      "pattern": "Constraint tracking",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 78,
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/10-Backtracking/0078-Subsets",
+      "solution": "00-DSA-Roadmap/10-Backtracking/0078-Subsets/Solution.java",
+      "pattern": "Choose, explore, undo",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0002-Add-Two-Numbers",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0002-Add-Two-Numbers/AddTwoNumbers.java",
+      "pattern": "Linked List + Carry Simulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 19,
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0019-Remove-Nth-Node-From-End-of-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0019-Remove-Nth-Node-From-End-of-List/RemoveNthNodeFromEnd.java",
+      "pattern": "Two Pointers and Dummy Node",
+      "provenance": "preserved"
+    },
+    {
+      "id": 21,
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0021-Merge-Two-Sorted-Lists",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0021-Merge-Two-Sorted-Lists/MergeTwoSortedLinkedLists.java",
+      "pattern": "Two Pointers and Dummy Node",
+      "provenance": "preserved"
+    },
+    {
+      "id": 24,
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0024-Swap-Nodes-in-Pairs",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0024-Swap-Nodes-in-Pairs/SwapNodesInPairs.java",
+      "pattern": "Dummy Node + Pointer Manipulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0025-Reverse-Nodes-in-k-Group",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0025-Reverse-Nodes-in-k-Group/ReverseNodesInKGroup.java",
+      "pattern": "Linked List Reversal + Recursion",
+      "provenance": "preserved"
+    },
+    {
+      "id": 61,
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0061-Rotate-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0061-Rotate-List/RotateLinkedList.java",
+      "pattern": "Circular Linking + Pointer Manipulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 138,
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0138-Copy-List-with-Random-Pointer",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0138-Copy-List-with-Random-Pointer/CopyListWithRandomPointer.java",
+      "pattern": "Node Interleaving + Pointer Manipulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 141,
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0141-Linked-List-Cycle",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0141-Linked-List-Cycle/DetectCycleInLinkedList.java",
+      "pattern": "Floyd's Cycle Detection / Slow and Fast Pointers",
+      "provenance": "preserved"
+    },
+    {
+      "id": 142,
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0142-Linked-List-Cycle-II",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0142-Linked-List-Cycle-II/FindStartOfCycle.java",
+      "pattern": "Floyd's Cycle Detection",
+      "provenance": "preserved"
+    },
+    {
+      "id": 143,
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0143-Reorder-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0143-Reorder-List/ReorderLinkedList.java",
+      "pattern": "Slow/Fast Pointers + Reversal + Merge",
+      "provenance": "preserved"
+    },
+    {
+      "id": 148,
+      "title": "Sort List",
+      "slug": "sort-list",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0148-Sort-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0148-Sort-List/SortLinkedList.java",
+      "pattern": "Merge Sort / Divide and Conquer",
+      "provenance": "preserved"
+    },
+    {
+      "id": 160,
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0160-Intersection-of-Two-Linked-Lists",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0160-Intersection-of-Two-Linked-Lists/IntersectionOfTwoLinkedLists.java",
+      "pattern": "Two Pointers",
+      "provenance": "preserved"
+    },
+    {
+      "id": 206,
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0206-Reverse-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0206-Reverse-Linked-List/ReverseLinkedList.java",
+      "pattern": "Linked List Pointer Reversal",
+      "provenance": "preserved"
+    },
+    {
+      "id": 234,
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0234-Palindrome-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0234-Palindrome-Linked-List/CheckPalindromeLinkedList.java",
+      "pattern": "Slow/Fast Pointers + Linked List Reversal",
+      "provenance": "preserved"
+    },
+    {
+      "id": 237,
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0237-Delete-Node-in-a-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0237-Delete-Node-in-a-Linked-List/DeleteNodeWithoutHead.java",
+      "pattern": "Linked List In-Place Pointer Manipulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 328,
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0328-Odd-Even-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0328-Odd-Even-Linked-List/OddEvenLinkedList.java",
+      "pattern": "Linked List Pointer Manipulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 876,
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/11-Linked-List/0876-Middle-of-the-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/0876-Middle-of-the-Linked-List/FindMiddleOfLinkedList.java",
+      "pattern": "Slow and Fast Pointers",
+      "provenance": "preserved"
+    },
+    {
+      "id": 20,
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses/Solution.java",
+      "pattern": "Stack matching",
+      "provenance": "preserved"
+    },
+    {
+      "id": 71,
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0071-Simplify-Path",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0071-Simplify-Path/Solution.java",
+      "pattern": "Path component stack",
+      "provenance": "preserved"
+    },
+    {
+      "id": 84,
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0084-Largest-Rectangle-in-Histogram",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0084-Largest-Rectangle-in-Histogram/Solution.java",
+      "pattern": "Monotonic histogram stack",
+      "provenance": "preserved"
+    },
+    {
+      "id": 150,
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0150-Evaluate-Reverse-Polish-Notation",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0150-Evaluate-Reverse-Polish-Notation/Solution.java",
+      "pattern": "Postfix expression evaluation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 155,
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0155-Min-Stack",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0155-Min-Stack/Solution.java",
+      "pattern": "Two-stack minimum",
+      "provenance": "preserved"
+    },
+    {
+      "id": 225,
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0225-Implement-Stack-using-Queues",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0225-Implement-Stack-using-Queues/Solution.java",
+      "pattern": "Queue rotation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 232,
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0232-Implement-Queue-using-Stacks",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0232-Implement-Queue-using-Stacks/Solution.java",
+      "pattern": "Amortized two-stack queue",
+      "provenance": "preserved"
+    },
+    {
+      "id": 394,
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/Solution.java",
+      "pattern": "Nested stack parsing",
+      "provenance": "preserved"
+    },
+    {
+      "id": 496,
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0496-Next-Greater-Element-I",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0496-Next-Greater-Element-I/Solution.java",
+      "pattern": "Monotonic stack",
+      "provenance": "preserved"
+    },
+    {
+      "id": 622,
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0622-Design-Circular-Queue",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0622-Design-Circular-Queue/Solution.java",
+      "pattern": "Circular queue buffer",
+      "provenance": "preserved"
+    },
+    {
+      "id": 641,
+      "title": "Design Circular Deque",
+      "slug": "design-circular-deque",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0641-Design-Circular-Deque",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0641-Design-Circular-Deque/Solution.java",
+      "pattern": "Circular deque buffer",
+      "provenance": "preserved"
+    },
+    {
+      "id": 739,
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0739-Daily-Temperatures",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0739-Daily-Temperatures/Solution.java",
+      "pattern": "Monotonic stack",
+      "provenance": "preserved"
+    },
+    {
+      "id": 901,
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0901-Online-Stock-Span",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0901-Online-Stock-Span/Solution.java",
+      "pattern": "Aggregated monotonic spans",
+      "provenance": "preserved"
+    },
+    {
+      "id": 31,
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/13-Greedy/0031-Next-Permutation",
+      "solution": "00-DSA-Roadmap/13-Greedy/0031-Next-Permutation/NextPermutation.java",
+      "pattern": "Greedy + Two Pointers / In-Place Array Manipulation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 56,
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/13-Greedy/0056-Merge-Intervals",
+      "solution": "00-DSA-Roadmap/13-Greedy/0056-Merge-Intervals/MergeIntervals.java",
+      "pattern": "Sorting + Interval Merging",
+      "provenance": "preserved"
+    },
+    {
+      "id": 121,
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/13-Greedy/0121-Best-Time-to-Buy-and-Sell-Stock",
+      "solution": "00-DSA-Roadmap/13-Greedy/0121-Best-Time-to-Buy-and-Sell-Stock/BestTimeToBuyAndSellStock.java",
+      "pattern": "Greedy / Array Traversal",
+      "provenance": "preserved"
+    },
+    {
+      "id": 409,
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/13-Greedy/0409-Longest-Palindrome",
+      "solution": "00-DSA-Roadmap/13-Greedy/0409-Longest-Palindrome/LongestPalindrome.java",
+      "pattern": "Frequency Counting / Greedy",
+      "provenance": "preserved"
+    },
+    {
+      "id": 435,
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/13-Greedy/0435-Non-overlapping-Intervals",
+      "solution": "00-DSA-Roadmap/13-Greedy/0435-Non-overlapping-Intervals/Solution.java",
+      "pattern": "Earliest-finish interval scheduling",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 881,
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/13-Greedy/0881-Boats-to-Save-People",
+      "solution": "00-DSA-Roadmap/13-Greedy/0881-Boats-to-Save-People/Solution.java",
+      "pattern": "Pair lightest with heaviest",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 23,
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "directory": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0023-Merge-k-Sorted-Lists",
+      "solution": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0023-Merge-k-Sorted-Lists/Solution.java",
+      "pattern": "K-way merge",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 215,
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0215-Kth-Largest-Element-in-an-Array",
+      "solution": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0215-Kth-Largest-Element-in-an-Array/Solution.java",
+      "pattern": "Bounded min-heap",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 621,
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0621-Task-Scheduler",
+      "solution": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0621-Task-Scheduler/Solution.java",
+      "pattern": "Priority scheduling with cooldown",
+      "provenance": "newly-prepared"
+    },
+    {
+      "id": 94,
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0094-Binary-Tree-Inorder-Traversal",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0094-Binary-Tree-Inorder-Traversal/Solution.java",
+      "pattern": "Inorder DFS",
+      "provenance": "preserved"
+    },
+    {
+      "id": 100,
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0100-Same-Tree",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0100-Same-Tree/Solution.java",
+      "pattern": "Structural recursion",
+      "provenance": "preserved"
+    },
+    {
+      "id": 101,
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0101-Symmetric-Tree",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0101-Symmetric-Tree/Solution.java",
+      "pattern": "Mirror recursion",
+      "provenance": "preserved"
+    },
+    {
+      "id": 102,
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0102-Binary-Tree-Level-Order-Traversal",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0102-Binary-Tree-Level-Order-Traversal/Solution.java",
+      "pattern": "Breadth-first levels",
+      "provenance": "preserved"
+    },
+    {
+      "id": 104,
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0104-Maximum-Depth-of-Binary-Tree",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0104-Maximum-Depth-of-Binary-Tree/Solution.java",
+      "pattern": "Recursive height",
+      "provenance": "preserved"
+    },
+    {
+      "id": 110,
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0110-Balanced-Binary-Tree",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0110-Balanced-Binary-Tree/Solution.java",
+      "pattern": "Postorder height sentinel",
+      "provenance": "preserved"
+    },
+    {
+      "id": 144,
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0144-Binary-Tree-Preorder-Traversal",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0144-Binary-Tree-Preorder-Traversal/Solution.java",
+      "pattern": "Preorder DFS",
+      "provenance": "preserved"
+    },
+    {
+      "id": 145,
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0145-Binary-Tree-Postorder-Traversal",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0145-Binary-Tree-Postorder-Traversal/Solution.java",
+      "pattern": "Postorder DFS",
+      "provenance": "preserved"
+    },
+    {
+      "id": 226,
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0226-Invert-Binary-Tree",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0226-Invert-Binary-Tree/Solution.java",
+      "pattern": "See implementation and notes",
+      "provenance": "preserved"
+    },
+    {
+      "id": 543,
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/15-Binary-Trees/0543-Diameter-of-Binary-Tree",
+      "solution": "00-DSA-Roadmap/15-Binary-Trees/0543-Diameter-of-Binary-Tree/Solution.java",
+      "pattern": "Postorder diameter",
+      "provenance": "preserved"
+    },
+    {
+      "id": 98,
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0098-Validate-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0098-Validate-Binary-Search-Tree/Solution.java",
+      "pattern": "Recursive value bounds",
+      "provenance": "preserved"
+    },
+    {
+      "id": 108,
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0108-Convert-Sorted-Array-to-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0108-Convert-Sorted-Array-to-Binary-Search-Tree/Solution.java",
+      "pattern": "Balanced divide and conquer",
+      "provenance": "preserved"
+    },
+    {
+      "id": 109,
+      "title": "Convert Sorted List to Binary Search Tree",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0109-Convert-Sorted-List-to-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0109-Convert-Sorted-List-to-Binary-Search-Tree/Solution.java",
+      "pattern": "Slow/fast split and construction",
+      "provenance": "preserved"
+    },
+    {
+      "id": 230,
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0230-Kth-Smallest-Element-in-a-BST",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0230-Kth-Smallest-Element-in-a-BST/Solution.java",
+      "pattern": "Iterative inorder rank",
+      "provenance": "preserved"
+    },
+    {
+      "id": 235,
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/Solution.java",
+      "pattern": "Ordered descent",
+      "provenance": "preserved"
+    },
+    {
+      "id": 450,
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0450-Delete-Node-in-a-BST",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0450-Delete-Node-in-a-BST/Solution.java",
+      "pattern": "Inorder successor deletion",
+      "provenance": "preserved"
+    },
+    {
+      "id": 501,
+      "title": "Find Mode in Binary Search Tree",
+      "slug": "find-mode-in-binary-search-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0501-Find-Mode-in-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0501-Find-Mode-in-Binary-Search-Tree/Solution.java",
+      "pattern": "Inorder run lengths",
+      "provenance": "preserved"
+    },
+    {
+      "id": 530,
+      "title": "Minimum Absolute Difference in BST",
+      "slug": "minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0530-Minimum-Absolute-Difference-in-BST",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0530-Minimum-Absolute-Difference-in-BST/Solution.java",
+      "pattern": "Inorder adjacent difference",
+      "provenance": "preserved"
+    },
+    {
+      "id": 653,
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0653-Two-Sum-IV-Input-is-a-BST",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0653-Two-Sum-IV-Input-is-a-BST/Solution.java",
+      "pattern": "Tree DFS and set lookup",
+      "provenance": "preserved"
+    },
+    {
+      "id": 669,
+      "title": "Trim a Binary Search Tree",
+      "slug": "trim-a-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0669-Trim-a-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0669-Trim-a-Binary-Search-Tree/Solution.java",
+      "pattern": "Range pruning",
+      "provenance": "preserved"
+    },
+    {
+      "id": 700,
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0700-Search-in-a-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0700-Search-in-a-Binary-Search-Tree/Solution.java",
+      "pattern": "Ordered iterative search",
+      "provenance": "preserved"
+    },
+    {
+      "id": 701,
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0701-Insert-into-a-Binary-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0701-Insert-into-a-Binary-Search-Tree/Solution.java",
+      "pattern": "Ordered recursive insertion",
+      "provenance": "preserved"
+    },
+    {
+      "id": 897,
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0897-Increasing-Order-Search-Tree",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0897-Increasing-Order-Search-Tree/Solution.java",
+      "pattern": "Inorder pointer rewiring",
+      "provenance": "preserved"
+    },
+    {
+      "id": 938,
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "difficulty": "Easy",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/0938-Range-Sum-of-BST",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/0938-Range-Sum-of-BST/Solution.java",
+      "pattern": "Range pruning and aggregation",
+      "provenance": "preserved"
+    },
+    {
+      "id": 1008,
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/16-Binary-Search-Trees/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal",
+      "solution": "00-DSA-Roadmap/16-Binary-Search-Trees/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/Solution.java",
+      "pattern": "Preorder bounded construction",
+      "provenance": "preserved"
+    }
+  ]
+}

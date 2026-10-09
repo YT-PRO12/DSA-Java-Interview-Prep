@@ -1,0 +1,114 @@
+[
+  {
+    "source": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/Fundamentals/GCD-and-LCM/GcdLcm.java",
+    "test": "tests/cases/01-GCD-and-LCM.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/Fundamentals/Primes-and-Divisors/PrimesAndDivisors.java",
+    "test": "tests/cases/02-Primes-and-Divisors.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/Fundamentals/Bit-Operations/BitOperations.java",
+    "test": "tests/cases/03-Bit-Operations.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/03-Basic-Math-and-Bit-Manipulation/0191-Number-of-1-Bits/Solution.java",
+    "test": "tests/cases/04-0191-Number-of-1-Bits.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/04-Sorting/Fundamentals/Elementary-Sorts/ElementarySorts.java",
+    "test": "tests/cases/05-Elementary-Sorts.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/04-Sorting/Fundamentals/Divide-and-Conquer-Sorts/DivideAndConquerSorts.java",
+    "test": "tests/cases/06-Divide-and-Conquer-Sorts.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/04-Sorting/Fundamentals/Counting-Sort/CountingSort.java",
+    "test": "tests/cases/07-Counting-Sort.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/04-Sorting/0075-Sort-Colors/Solution.java",
+    "test": "tests/cases/08-0075-Sort-Colors.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/Fundamentals/Prefix-Sums/PrefixSums.java",
+    "test": "tests/cases/09-Prefix-Sums.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0217-Contains-Duplicate/Solution.java",
+    "test": "tests/cases/10-0217-Contains-Duplicate.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/06-Two-Pointers/Fundamentals/Sorted-Array-Pair-Sum/SortedArrayPairSum.java",
+    "test": "tests/cases/11-Sorted-Array-Pair-Sum.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/06-Two-Pointers/Fundamentals/Three-Way-Partition/ThreeWayPartition.java",
+    "test": "tests/cases/12-Three-Way-Partition.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/09-Recursion/Fundamentals/Array-Recursion/ArrayRecursion.java",
+    "test": "tests/cases/13-Array-Recursion.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/09-Recursion/Fundamentals/Recursive-Palindrome/RecursivePalindrome.java",
+    "test": "tests/cases/14-Recursive-Palindrome.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/09-Recursion/Fundamentals/Subsequence-Generation/Subsequences.java",
+    "test": "tests/cases/15-Subsequence-Generation.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/09-Recursion/0050-Pow-x-n/Solution.java",
+    "test": "tests/cases/16-0050-Pow-x-n.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/09-Recursion/0022-Generate-Parentheses/Solution.java",
+    "test": "tests/cases/17-0022-Generate-Parentheses.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0078-Subsets/Solution.java",
+    "test": "tests/cases/18-0078-Subsets.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0046-Permutations/Solution.java",
+    "test": "tests/cases/19-0046-Permutations.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0039-Combination-Sum/Solution.java",
+    "test": "tests/cases/20-0039-Combination-Sum.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0051-N-Queens/Solution.java",
+    "test": "tests/cases/21-0051-N-Queens.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0037-Sudoku-Solver/Solution.java",
+    "test": "tests/cases/22-0037-Sudoku-Solver.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/13-Greedy/0435-Non-overlapping-Intervals/Solution.java",
+    "test": "tests/cases/23-0435-Non-overlapping-Intervals.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/13-Greedy/0881-Boats-to-Save-People/Solution.java",
+    "test": "tests/cases/24-0881-Boats-to-Save-People.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/Fundamentals/Priority-Queue-Basics/PriorityQueueBasics.java",
+    "test": "tests/cases/25-Priority-Queue-Basics.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0215-Kth-Largest-Element-in-an-Array/Solution.java",
+    "test": "tests/cases/26-0215-Kth-Largest-Element-in-an-Array.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0023-Merge-k-Sorted-Lists/Solution.java",
+    "test": "tests/cases/27-0023-Merge-k-Sorted-Lists.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0621-Task-Scheduler/Solution.java",
+    "test": "tests/cases/28-0621-Task-Scheduler.java"
+  }
+]

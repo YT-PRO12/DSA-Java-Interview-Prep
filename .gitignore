@@ -1,1 +1,13 @@
+# Java compiler and build output
 *.class
+/out/
+/build/
+/target/
+
+# Local tooling
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
