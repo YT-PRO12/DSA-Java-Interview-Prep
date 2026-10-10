@@ -47,3 +47,11 @@ Explain the choice and its proof, and recognize when exhaustive search is needed
 - [621. Task Scheduler](../14-Heaps-and-Priority-Queues/0621-Task-Scheduler)
 
 Counts reflect files in this repository, not verified LeetCode acceptances. See the [validation report](../../docs/VALIDATION.md) for the verification scope.
+
+## Additional Curated Practice
+
+| LeetCode | Problem | Difficulty | Pattern | Java |
+|---:|---|---|---|---|
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | Interval scheduling | [Solution](0452-Minimum-Number-of-Arrows-to-Burst-Balloons/Solution.java) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Farthest reachable index | [Solution](0055-Jump-Game/Solution.java) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy frontier | [Solution](0045-Jump-Game-II/Solution.java) |
