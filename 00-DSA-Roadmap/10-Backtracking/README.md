@@ -20,6 +20,14 @@ Explore decision trees while restoring mutable state. The curated set covers sub
 | 3 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | Used-index decisions | [Java](0046-Permutations/Solution.java) |
 | 4 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | Constraint tracking | [Java](0051-N-Queens/Solution.java) |
 | 5 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | Choose, explore, undo | [Java](0078-Subsets/Solution.java) |
+| 6 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Duplicate-aware branching | [Java](0040-Combination-Sum-II/Solution.java) |
+| 7 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Unique permutations | [Java](0047-Permutations-II/Solution.java) |
+| 8 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | Duplicate-aware subsets | [Java](0090-Subsets-II/Solution.java) |
+| 9 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | Combinatorial pruning | [Java](0077-Combinations/Solution.java) |
+| 10 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Grid DFS and backtracking | [Java](0079-Word-Search/Solution.java) |
+| 11 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Decision tree | [Java](0017-Letter-Combinations-of-a-Phone-Number/Solution.java) |
+| 12 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | Partition recursion | [Java](0131-Palindrome-Partitioning/Solution.java) |
+| 13 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Fixed-length selection | [Java](0216-Combination-Sum-III/Solution.java) |
 
 ## Learning Progression
 
@@ -45,16 +53,3 @@ Model the decision, legal choices, state restoration, and stopping condition for
 - [50. Pow(x, n)](../09-Recursion/0050-Pow-x-n)
 
 Counts reflect files in this repository, not verified LeetCode acceptances. See the [validation report](../../docs/VALIDATION.md) for the verification scope.
-
-## Additional Curated Practice
-
-| LeetCode | Problem | Difficulty | Pattern | Java |
-|---:|---|---|---|---|
-| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Duplicate-aware branching | [Solution](0040-Combination-Sum-II/Solution.java) |
-| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Unique permutations | [Solution](0047-Permutations-II/Solution.java) |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | Duplicate-aware subsets | [Solution](0090-Subsets-II/Solution.java) |
-| 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | Combinatorial pruning | [Solution](0077-Combinations/Solution.java) |
-| 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Grid DFS and backtracking | [Solution](0079-Word-Search/Solution.java) |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Decision tree | [Solution](0017-Letter-Combinations-of-a-Phone-Number/Solution.java) |
-| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | Partition recursion | [Solution](0131-Palindrome-Partitioning/Solution.java) |
-| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Fixed-length selection | [Solution](0216-Combination-Sum-III/Solution.java) |
