@@ -110,5 +110,65 @@
   {
     "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0621-Task-Scheduler/Solution.java",
     "test": "tests/cases/28-0621-Task-Scheduler.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0017-Letter-Combinations-of-a-Phone-Number/Solution.java",
+    "test": "tests/cases/29-0017-Letter-Combinations-of-a-Phone-Number.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0040-Combination-Sum-II/Solution.java",
+    "test": "tests/cases/30-0040-Combination-Sum-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0047-Permutations-II/Solution.java",
+    "test": "tests/cases/31-0047-Permutations-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0077-Combinations/Solution.java",
+    "test": "tests/cases/32-0077-Combinations.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0079-Word-Search/Solution.java",
+    "test": "tests/cases/33-0079-Word-Search.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0090-Subsets-II/Solution.java",
+    "test": "tests/cases/34-0090-Subsets-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0131-Palindrome-Partitioning/Solution.java",
+    "test": "tests/cases/35-0131-Palindrome-Partitioning.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/10-Backtracking/0216-Combination-Sum-III/Solution.java",
+    "test": "tests/cases/36-0216-Combination-Sum-III.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0347-Top-K-Frequent-Elements/Solution.java",
+    "test": "tests/cases/37-0347-Top-K-Frequent-Elements.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0373-Find-K-Pairs-with-Smallest-Sums/Solution.java",
+    "test": "tests/cases/38-0373-Find-K-Pairs-with-Smallest-Sums.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/13-Greedy/0452-Minimum-Number-of-Arrows-to-Burst-Balloons/Solution.java",
+    "test": "tests/cases/39-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/13-Greedy/0055-Jump-Game/Solution.java",
+    "test": "tests/cases/40-0055-Jump-Game.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/13-Greedy/0045-Jump-Game-II/Solution.java",
+    "test": "tests/cases/41-0045-Jump-Game-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0703-Kth-Largest-Element-in-a-Stream/Solution.java",
+    "test": "tests/cases/42-0703-Kth-Largest-Element-in-a-Stream.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0295-Find-Median-from-Data-Stream/Solution.java",
+    "test": "tests/cases/43-0295-Find-Median-from-Data-Stream.java"
   }
 ]
