@@ -21,6 +21,9 @@ Make local decisions that admit an optimal completion. Sorting provides an order
 | 4 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Frequency Counting / Greedy | [Java](0409-Longest-Palindrome/LongestPalindrome.java) |
 | 5 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | Earliest-finish interval scheduling | [Java](0435-Non-overlapping-Intervals/Solution.java) |
 | 6 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | Pair lightest with heaviest | [Java](0881-Boats-to-Save-People/Solution.java) |
+| 7 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | Interval scheduling | [Java](0452-Minimum-Number-of-Arrows-to-Burst-Balloons/Solution.java) |
+| 8 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Farthest reachable index | [Java](0055-Jump-Game/Solution.java) |
+| 9 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy frontier | [Java](0045-Jump-Game-II/Solution.java) |
 
 ## Learning Progression
 

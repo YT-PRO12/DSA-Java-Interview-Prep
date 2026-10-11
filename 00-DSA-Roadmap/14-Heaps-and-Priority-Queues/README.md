@@ -18,6 +18,10 @@ Use a heap when the next smallest or largest item changes as work arrives or is 
 | 1 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | K-way merge | [Java](0023-Merge-k-Sorted-Lists/Solution.java) |
 | 2 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Bounded min-heap | [Java](0215-Kth-Largest-Element-in-an-Array/Solution.java) |
 | 3 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | Priority scheduling with cooldown | [Java](0621-Task-Scheduler/Solution.java) |
+| 4 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Min heap and frequency map | [Java](0347-Top-K-Frequent-Elements/Solution.java) |
+| 5 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Streaming min heap | [Java](0703-Kth-Largest-Element-in-a-Stream/Solution.java) |
+| 6 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | Two heaps | [Java](0295-Find-Median-from-Data-Stream/Solution.java) |
+| 7 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Medium | Best-first heap expansion | [Java](0373-Find-K-Pairs-with-Smallest-Sums/Solution.java) |
 
 ## Fundamentals
 

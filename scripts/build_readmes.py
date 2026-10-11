@@ -140,7 +140,7 @@ python scripts/verify_java.py
 
 ## Progress and Verification
 
-The tables measure repository coverage, **not accepted submissions or personal mastery**. The restructuring preserved all 151 original Java files and added 28 prepared implementations: 15 official LeetCode problems and 13 fundamentals. No new online acceptance was claimed or verified.
+The tables measure repository coverage, **not accepted submissions or personal mastery**. The restructuring preserved all 151 original Java files and added 43 prepared implementations: 30 official LeetCode problems and 13 fundamentals. No new online acceptance was claimed or verified.
 
 - [Verification evidence and limitations](docs/VALIDATION.md)
 - [Preservation and reclassification audit](docs/RESTRUCTURING.md)
