@@ -17,14 +17,14 @@ Follow the chapters in order, using each topic’s linked problem index, fundame
 | 07 | [Sliding Window](07-Sliding-Window) | 10 | 1 | 14 |
 | 08 | [Binary Search](08-Binary-Search) | 15 | 0 | 17 |
 | 09 | [Recursion](09-Recursion) | 2 | 3 | 5 |
-| 10 | [Backtracking](10-Backtracking) | 5 | 0 | 5 |
+| 10 | [Backtracking](10-Backtracking) | 13 | 0 | 13 |
 | 11 | [Linked List](11-Linked-List) | 17 | 13 | 30 |
 | 12 | [Stacks and Queues](12-Stacks-and-Queues) | 13 | 0 | 15 |
-| 13 | [Greedy](13-Greedy) | 6 | 0 | 6 |
-| 14 | [Heaps and Priority Queues](14-Heaps-and-Priority-Queues) | 3 | 1 | 4 |
+| 13 | [Greedy](13-Greedy) | 9 | 0 | 9 |
+| 14 | [Heaps and Priority Queues](14-Heaps-and-Priority-Queues) | 7 | 1 | 8 |
 | 15 | [Binary Trees](15-Binary-Trees) | 10 | 0 | 10 |
 | 16 | [Binary Search Trees](16-Binary-Search-Trees) | 15 | 0 | 15 |
-| | **Total** | **132** | **40** | **179** |
+| | **Total** | **147** | **40** | **194** |
 
 ## Working Method
 
