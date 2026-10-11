@@ -28,14 +28,14 @@ A Java practice collection maintained by [Yatharth Goyal](https://github.com/YT-
 | 07 | [Sliding Window](00-DSA-Roadmap/07-Sliding-Window) | 10 | 1 | 14 |
 | 08 | [Binary Search](00-DSA-Roadmap/08-Binary-Search) | 15 | 0 | 17 |
 | 09 | [Recursion](00-DSA-Roadmap/09-Recursion) | 2 | 3 | 5 |
-| 10 | [Backtracking](00-DSA-Roadmap/10-Backtracking) | 5 | 0 | 5 |
+| 10 | [Backtracking](00-DSA-Roadmap/10-Backtracking) | 13 | 0 | 13 |
 | 11 | [Linked List](00-DSA-Roadmap/11-Linked-List) | 17 | 13 | 30 |
 | 12 | [Stacks and Queues](00-DSA-Roadmap/12-Stacks-and-Queues) | 13 | 0 | 15 |
-| 13 | [Greedy](00-DSA-Roadmap/13-Greedy) | 6 | 0 | 6 |
-| 14 | [Heaps and Priority Queues](00-DSA-Roadmap/14-Heaps-and-Priority-Queues) | 3 | 1 | 4 |
+| 13 | [Greedy](00-DSA-Roadmap/13-Greedy) | 9 | 0 | 9 |
+| 14 | [Heaps and Priority Queues](00-DSA-Roadmap/14-Heaps-and-Priority-Queues) | 7 | 1 | 8 |
 | 15 | [Binary Trees](00-DSA-Roadmap/15-Binary-Trees) | 10 | 0 | 10 |
 | 16 | [Binary Search Trees](00-DSA-Roadmap/16-Binary-Search-Trees) | 15 | 0 | 15 |
-| | **Total** | **132** | **40** | **179** |
+| | **Total** | **147** | **40** | **194** |
 
 Each LeetCode ID has one canonical folder. Java-file totals also include the retained variants; fundamentals are counted separately. Topic READMEs link both official problem statements and the actual Java implementations.
 
@@ -84,7 +84,7 @@ python scripts/verify_java.py
 
 ## Progress and Verification
 
-The tables measure repository coverage, **not accepted submissions or personal mastery**. The restructuring preserved all 151 original Java files and added 28 prepared implementations: 15 official LeetCode problems and 13 fundamentals. No new online acceptance was claimed or verified.
+The tables measure repository coverage, **not accepted submissions or personal mastery**. The restructuring preserved all 151 original Java files and added 43 prepared implementations: 30 official LeetCode problems and 13 fundamentals. No new online acceptance was claimed or verified.
 
 - [Verification evidence and limitations](docs/VALIDATION.md)
 - [Preservation and reclassification audit](docs/RESTRUCTURING.md)
