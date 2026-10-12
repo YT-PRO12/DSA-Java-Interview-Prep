@@ -170,5 +170,85 @@
   {
     "source": "00-DSA-Roadmap/14-Heaps-and-Priority-Queues/0295-Find-Median-from-Data-Stream/Solution.java",
     "test": "tests/cases/43-0295-Find-Median-from-Data-Stream.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0094-Binary-Tree-Inorder-Traversal/Solution.java",
+    "test": "tests/cases/44-0094-Binary-Tree-Inorder-Traversal.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0100-Same-Tree/Solution.java",
+    "test": "tests/cases/45-0100-Same-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0101-Symmetric-Tree/Solution.java",
+    "test": "tests/cases/46-0101-Symmetric-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0102-Binary-Tree-Level-Order-Traversal/Solution.java",
+    "test": "tests/cases/47-0102-Binary-Tree-Level-Order-Traversal.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0104-Maximum-Depth-of-Binary-Tree/Solution.java",
+    "test": "tests/cases/48-0104-Maximum-Depth-of-Binary-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0110-Balanced-Binary-Tree/Solution.java",
+    "test": "tests/cases/49-0110-Balanced-Binary-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0144-Binary-Tree-Preorder-Traversal/Solution.java",
+    "test": "tests/cases/50-0144-Binary-Tree-Preorder-Traversal.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0145-Binary-Tree-Postorder-Traversal/Solution.java",
+    "test": "tests/cases/51-0145-Binary-Tree-Postorder-Traversal.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0226-Invert-Binary-Tree/Solution.java",
+    "test": "tests/cases/52-0226-Invert-Binary-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/15-Binary-Trees/0543-Diameter-of-Binary-Tree/Solution.java",
+    "test": "tests/cases/53-0543-Diameter-of-Binary-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0098-Validate-Binary-Search-Tree/Solution.java",
+    "test": "tests/cases/54-0098-Validate-Binary-Search-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0108-Convert-Sorted-Array-to-Binary-Search-Tree/Solution.java",
+    "test": "tests/cases/55-0108-Convert-Sorted-Array-to-Binary-Search-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0230-Kth-Smallest-Element-in-a-BST/Solution.java",
+    "test": "tests/cases/56-0230-Kth-Smallest-Element-in-a-BST.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/Solution.java",
+    "test": "tests/cases/57-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0450-Delete-Node-in-a-BST/Solution.java",
+    "test": "tests/cases/58-0450-Delete-Node-in-a-BST.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0530-Minimum-Absolute-Difference-in-BST/Solution.java",
+    "test": "tests/cases/59-0530-Minimum-Absolute-Difference-in-BST.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0653-Two-Sum-IV-Input-is-a-BST/Solution.java",
+    "test": "tests/cases/60-0653-Two-Sum-IV-Input-is-a-BST.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0669-Trim-a-Binary-Search-Tree/Solution.java",
+    "test": "tests/cases/61-0669-Trim-a-Binary-Search-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0700-Search-in-a-Binary-Search-Tree/Solution.java",
+    "test": "tests/cases/62-0700-Search-in-a-Binary-Search-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0701-Insert-into-a-Binary-Search-Tree/Solution.java",
+    "test": "tests/cases/63-0701-Insert-into-a-Binary-Search-Tree.java"
   }
 ]
