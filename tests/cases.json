@@ -250,5 +250,85 @@
   {
     "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0701-Insert-into-a-Binary-Search-Tree/Solution.java",
     "test": "tests/cases/63-0701-Insert-into-a-Binary-Search-Tree.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0033-Search-in-Rotated-Sorted-Array/Solution.java",
+    "test": "tests/cases/64-0033-Search-in-Rotated-Sorted-Array.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Solution.java",
+    "test": "tests/cases/65-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0035-Search-Insert-Position/Solution.java",
+    "test": "tests/cases/66-0035-Search-Insert-Position.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0074-Search-a-2D-Matrix/Solution.java",
+    "test": "tests/cases/67-0074-Search-a-2D-Matrix.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0081-Search-in-Rotated-Sorted-Array-II/Solution.java",
+    "test": "tests/cases/68-0081-Search-in-Rotated-Sorted-Array-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0153-Find-Minimum-in-Rotated-Sorted-Array/Solution.java",
+    "test": "tests/cases/69-0153-Find-Minimum-in-Rotated-Sorted-Array.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0162-Find-Peak-Element/Solution.java",
+    "test": "tests/cases/70-0162-Find-Peak-Element.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0240-Search-a-2D-Matrix-II/Solution.java",
+    "test": "tests/cases/71-0240-Search-a-2D-Matrix-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0410-Split-Array-Largest-Sum/Solution.java",
+    "test": "tests/cases/72-0410-Split-Array-Largest-Sum.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0704-Binary-Search/Solution.java",
+    "test": "tests/cases/73-0704-Binary-Search.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0875-Koko-Eating-Bananas/Solution.java",
+    "test": "tests/cases/74-0875-Koko-Eating-Bananas.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/1011-Capacity-To-Ship-Packages-Within-D-Days/Solution.java",
+    "test": "tests/cases/75-1011-Capacity-To-Ship-Packages-Within-D-Days.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Solution.java",
+    "test": "tests/cases/76-1283-Find-the-Smallest-Divisor-Given-a-Threshold.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java",
+    "test": "tests/cases/77-1482-Minimum-Number-of-Days-to-Make-m-Bouquets.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/1552-Magnetic-Force-Between-Two-Balls/Solution.java",
+    "test": "tests/cases/78-1552-Magnetic-Force-Between-Two-Balls.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0020-Valid-Parentheses/Solution.java",
+    "test": "tests/cases/79-0020-Valid-Parentheses.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0071-Simplify-Path/Solution.java",
+    "test": "tests/cases/80-0071-Simplify-Path.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0084-Largest-Rectangle-in-Histogram/Solution.java",
+    "test": "tests/cases/81-0084-Largest-Rectangle-in-Histogram.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0150-Evaluate-Reverse-Polish-Notation/Solution.java",
+    "test": "tests/cases/82-0150-Evaluate-Reverse-Polish-Notation.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/Solution.java",
+    "test": "tests/cases/83-0394-Decode-String.java"
   }
 ]
