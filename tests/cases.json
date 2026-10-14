@@ -330,5 +330,37 @@
   {
     "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0394-Decode-String/Solution.java",
     "test": "tests/cases/83-0394-Decode-String.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0155-Min-Stack/Solution.java",
+    "test": "tests/cases/84-0155-Min-Stack.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0225-Implement-Stack-using-Queues/Solution.java",
+    "test": "tests/cases/85-0225-Implement-Stack-using-Queues.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0232-Implement-Queue-using-Stacks/Solution.java",
+    "test": "tests/cases/86-0232-Implement-Queue-using-Stacks.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0496-Next-Greater-Element-I/Solution.java",
+    "test": "tests/cases/87-0496-Next-Greater-Element-I.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0622-Design-Circular-Queue/Solution.java",
+    "test": "tests/cases/88-0622-Design-Circular-Queue.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0641-Design-Circular-Deque/Solution.java",
+    "test": "tests/cases/89-0641-Design-Circular-Deque.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0739-Daily-Temperatures/Solution.java",
+    "test": "tests/cases/90-0739-Daily-Temperatures.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0901-Online-Stock-Span/Solution.java",
+    "test": "tests/cases/91-0901-Online-Stock-Span.java"
   }
 ]
