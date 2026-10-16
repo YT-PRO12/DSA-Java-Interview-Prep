@@ -362,5 +362,29 @@
   {
     "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0901-Online-Stock-Span/Solution.java",
     "test": "tests/cases/91-0901-Online-Stock-Span.java"
+  },
+  {
+    "test": "tests/cases/92-0239-Sliding-Window-Maximum.java",
+    "source": "00-DSA-Roadmap/07-Sliding-Window/0239-Sliding-Window-Maximum/Solution.java"
+  },
+  {
+    "test": "tests/cases/93-0109-Convert-Sorted-List-to-Binary-Search-Tree.java",
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0109-Convert-Sorted-List-to-Binary-Search-Tree/Solution.java"
+  },
+  {
+    "test": "tests/cases/94-0501-Find-Mode-in-Binary-Search-Tree.java",
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0501-Find-Mode-in-Binary-Search-Tree/Solution.java"
+  },
+  {
+    "test": "tests/cases/95-0897-Increasing-Order-Search-Tree.java",
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0897-Increasing-Order-Search-Tree/Solution.java"
+  },
+  {
+    "test": "tests/cases/96-0938-Range-Sum-of-BST.java",
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/0938-Range-Sum-of-BST/Solution.java"
+  },
+  {
+    "test": "tests/cases/97-1008-Construct-Binary-Search-Tree-from-Preorder-Traversal.java",
+    "source": "00-DSA-Roadmap/16-Binary-Search-Trees/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/Solution.java"
   }
 ]
