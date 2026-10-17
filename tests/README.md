@@ -18,3 +18,14 @@ Run the newly prepared examples only with `python scripts/verify_java.py --new-o
 The 28 regression suites cover arithmetic boundaries, bit positions, sorting versus `Arrays.sort`, prefix-range sums, pointer partitions, recursion outputs, combinatorial invariants, a known Sudoku solution, exhaustive small interval/boat oracles, heap order, top K, merge order, and an independent scheduler bound.
 
 These tests do not submit to LeetCode or establish online acceptance. Existing algorithms are preserved; their compilation and demo checks are not exhaustive regression coverage. Stateful preserved tree examples should be instantiated afresh for each independent invocation.
+
+
+## Regression test design standards
+
+- Cover normal behavior and important boundaries: empty and singleton inputs, duplicate values, and lower/upper insertion positions where applicable.
+- Keep assertions deterministic and independent of console output.
+- Keep each harness isolated to its matching source; avoid shared mutable state.
+- Preserve the original LeetCode method signature and put assertions in `tests/cases/`.
+- Register new cases in `cases.json` with repository-relative paths.
+
+GitHub Actions runs repository validation and Java compilation/regression checks on pushes and pull requests.
