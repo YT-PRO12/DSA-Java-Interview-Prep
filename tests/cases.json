@@ -386,5 +386,45 @@
   {
     "test": "tests/cases/97-1008-Construct-Binary-Search-Tree-from-Preorder-Traversal.java",
     "source": "00-DSA-Roadmap/16-Binary-Search-Trees/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal/Solution.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/01-Arrays/0048-Rotate-Image/RotateMatrix.java",
+    "test": "tests/cases/98-0048-Rotate-Image.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/01-Arrays/0053-Maximum-Subarray/KadaneMaximumSubarray.java",
+    "test": "tests/cases/99-0053-Maximum-Subarray.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/01-Arrays/0073-Set-Matrix-Zeroes/SetMatrixZeroes.java",
+    "test": "tests/cases/100-0073-Set-Matrix-Zeroes.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/01-Arrays/0169-Majority-Element/MajorityElement.java",
+    "test": "tests/cases/101-0169-Majority-Element.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0005-Longest-Palindromic-Substring/LongestPalindromicSubstring.java",
+    "test": "tests/cases/102-0005-Longest-Palindromic-Substring.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0008-String-to-Integer-atoi/StringToIntegerAtoi.java",
+    "test": "tests/cases/103-0008-String-to-Integer-atoi.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0001-Two-Sum/TwoSum.java",
+    "test": "tests/cases/104-0001-Two-Sum.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0238-Product-of-Array-Except-Self/ProductOfArrayExceptSelf.java",
+    "test": "tests/cases/105-0238-Product-of-Array-Except-Self.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/06-Two-Pointers/0011-Container-With-Most-Water/ContainerWithMostWater.java",
+    "test": "tests/cases/106-0011-Container-With-Most-Water.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water/TrappingRainWater.java",
+    "test": "tests/cases/107-0042-Trapping-Rain-Water.java"
   }
 ]
