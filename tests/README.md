@@ -29,3 +29,19 @@ These tests do not submit to LeetCode or establish online acceptance. Existing a
 - Register new cases in `cases.json` with repository-relative paths.
 
 GitHub Actions runs repository validation and Java compilation/regression checks on pushes and pull requests.
+
+## Array and string regression coverage
+
+The registered suite now includes boundary checks for ten foundational/interview problems:
+
+- Rotate Image: singleton, 2×2, and standard 3×3 clockwise rotations.
+- Maximum Subarray: mixed-sign, all-negative, singleton, and zero arrays.
+- Set Matrix Zeroes: interior markers and first-row/first-column behavior.
+- Majority Element: repeated candidates and small valid inputs.
+- Longest Palindromic Substring: odd/even lengths, singleton and empty strings.
+- String to Integer (atoi): whitespace, signs, trailing text, and integer overflow clamping.
+- Two Sum: duplicate values, negative values, and no-solution behavior.
+- Product of Array Except Self: one zero, multiple zeros, and singleton input.
+- Container With Most Water and Trapping Rain Water: known examples and monotone/flat boundaries.
+
+Run `python scripts/verify_java.py` to compile each source in isolation and execute the registered regression assertions. Report the CI result from the actual workflow, not from the presence of a test file alone.
