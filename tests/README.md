@@ -45,3 +45,16 @@ The registered suite now includes boundary checks for ten foundational/interview
 - Container With Most Water and Trapping Rain Water: known examples and monotone/flat boundaries.
 
 Run `python scripts/verify_java.py` to compile each source in isolation and execute the registered regression assertions. Report the CI result from the actual workflow, not from the presence of a test file alone.
+
+## Additional array, string, and hash-pattern coverage
+
+The regression registry includes focused suites for:
+
+- Majority Element II and Max Consecutive Ones: frequency thresholds, duplicates, empty inputs, and run boundaries.
+- Longest Common Prefix: no common prefix, empty input, and identical strings.
+- Add Strings and Multiply Strings: carry chains, zero products, and values beyond primitive integer width.
+- Group Anagrams and Longest Consecutive Sequence: grouping stability, empty strings, duplicates, and negative sequences.
+- Subarray Sum Equals K: repeated prefix sums, negative values, and empty input.
+- 3Sum and Longest Substring Without Repeating Characters: duplicate elimination, no-solution cases, repeated characters, and empty strings.
+
+Run `python scripts/validate_repository.py` and `python scripts/verify_java.py` before opening a PR. Counts in `tests/cases.json` represent registered local regression suites, not accepted LeetCode submissions.
