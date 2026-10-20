@@ -426,5 +426,45 @@
   {
     "source": "00-DSA-Roadmap/06-Two-Pointers/0042-Trapping-Rain-Water/TrappingRainWater.java",
     "test": "tests/cases/107-0042-Trapping-Rain-Water.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/01-Arrays/0229-Majority-Element-II/MajorityElementII.java",
+    "test": "tests/cases/108-0229-Majority-Element-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/01-Arrays/0485-Max-Consecutive-Ones/MaximumConsecutiveOnes.java",
+    "test": "tests/cases/109-0485-Max-Consecutive-Ones.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0014-Longest-Common-Prefix/LongestCommonPrefix.java",
+    "test": "tests/cases/110-0014-Longest-Common-Prefix.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0043-Multiply-Strings/MultiplyStrings.java",
+    "test": "tests/cases/111-0043-Multiply-Strings.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0415-Add-Strings/AddStrings.java",
+    "test": "tests/cases/112-0415-Add-Strings.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0049-Group-Anagrams/GroupAnagrams.java",
+    "test": "tests/cases/113-0049-Group-Anagrams.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0128-Longest-Consecutive-Sequence/LongestConsecutiveSequence.java",
+    "test": "tests/cases/114-0128-Longest-Consecutive-Sequence.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0560-Subarray-Sum-Equals-K/SubarraySumEqualsK.java",
+    "test": "tests/cases/115-0560-Subarray-Sum-Equals-K.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/06-Two-Pointers/0015-3Sum/ThreeSum.java",
+    "test": "tests/cases/116-0015-3Sum.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/LongestSubstringWithoutRepeatingCharacters.java",
+    "test": "tests/cases/117-0003-Longest-Substring-Without-Repeating-Characters.java"
   }
 ]
