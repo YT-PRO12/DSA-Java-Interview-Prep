@@ -466,5 +466,37 @@
   {
     "source": "00-DSA-Roadmap/07-Sliding-Window/0003-Longest-Substring-Without-Repeating-Characters/LongestSubstringWithoutRepeatingCharacters.java",
     "test": "tests/cases/117-0003-Longest-Substring-Without-Repeating-Characters.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0028-Find-the-Index-of-the-First-Occurrence-in-a-String/ImplementStrStr.java",
+    "test": "tests/cases/118-0028-Implement-StrStr.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0165-Compare-Version-Numbers/CompareVersionNumbers.java",
+    "test": "tests/cases/119-0165-Compare-Version-Numbers.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/0443-String-Compression/StringCompression.java",
+    "test": "tests/cases/120-0443-String-Compression.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/02-Strings/1021-Remove-Outermost-Parentheses/RemoveOuterParentheses.java",
+    "test": "tests/cases/121-1021-Remove-Outermost-Parentheses.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0205-Isomorphic-Strings/IsomorphicStrings.java",
+    "test": "tests/cases/122-0205-Isomorphic-Strings.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0242-Valid-Anagram/ValidAnagram.java",
+    "test": "tests/cases/123-0242-Valid-Anagram.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0290-Word-Pattern/WordPattern.java",
+    "test": "tests/cases/124-0290-Word-Pattern.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays/IntersectionOfTwoArrays.java",
+    "test": "tests/cases/125-0349-Intersection-of-Two-Arrays.java"
   }
 ]
