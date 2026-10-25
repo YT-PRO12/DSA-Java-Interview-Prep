@@ -24,10 +24,11 @@ Use LIFO and FIFO state for parsing, simulation, circular buffers, and monotonic
 | 7 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Amortized two-stack queue | [Java](0232-Implement-Queue-using-Stacks/Solution.java) |
 | 8 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | Nested stack parsing | [Java](0394-Decode-String/Solution.java) |
 | 9 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Monotonic stack | [Java](0496-Next-Greater-Element-I/Solution.java) |
-| 10 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Circular queue buffer | [Java](0622-Design-Circular-Queue/Solution.java) |
-| 11 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Circular deque buffer | [Java](0641-Design-Circular-Deque/Solution.java) |
-| 12 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Monotonic stack | [Java](0739-Daily-Temperatures/Solution.java) |
-| 13 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Aggregated monotonic spans | [Java](0901-Online-Stock-Span/Solution.java) |
+| 10 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | Monotonic Stack / Circular Traversal | [Java](0503-Next-Greater-Element-II/Solution.java) |
+| 11 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Circular queue buffer | [Java](0622-Design-Circular-Queue/Solution.java) |
+| 12 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Circular deque buffer | [Java](0641-Design-Circular-Deque/Solution.java) |
+| 13 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Monotonic stack | [Java](0739-Daily-Temperatures/Solution.java) |
+| 14 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Aggregated monotonic spans | [Java](0901-Online-Stock-Span/Solution.java) |
 
 ## Preserved Local Variants
 
@@ -45,7 +46,7 @@ These are original alternatives or runnable demos of an indexed problem. They co
 | Matching and parsing | [20](0020-Valid-Parentheses), [71](0071-Simplify-Path), [150](0150-Evaluate-Reverse-Polish-Notation), [394](0394-Decode-String) |
 | Stack and queue simulation | [155](0155-Min-Stack), [225](0225-Implement-Stack-using-Queues), [232](0232-Implement-Queue-using-Stacks) |
 | Circular buffers | [622](0622-Design-Circular-Queue), [641](0641-Design-Circular-Deque) |
-| Monotonic structures | [496](0496-Next-Greater-Element-I), [739](0739-Daily-Temperatures), [901](0901-Online-Stock-Span), [84](0084-Largest-Rectangle-in-Histogram), [239](../07-Sliding-Window/0239-Sliding-Window-Maximum) |
+| Monotonic structures | [496](0496-Next-Greater-Element-I), [503](0503-Next-Greater-Element-II), [739](0739-Daily-Temperatures), [901](0901-Online-Stock-Span), [84](0084-Largest-Rectangle-in-Histogram), [239](../07-Sliding-Window/0239-Sliding-Window-Maximum) |
 
 ## Learning Progression
 

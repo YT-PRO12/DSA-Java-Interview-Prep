@@ -55,7 +55,7 @@ def build():
                 text += f"| {p['id']} | [{source.name}]({link(source,folder)}) |\n"
         if topic['directory'].startswith('12-'):
             text += '\n## Pattern Groups\n\n| Group | Start here |\n|---|---|\n'
-            for title,ids in [('Matching and parsing',[20,71,150,394]),('Stack and queue simulation',[155,225,232]),('Circular buffers',[622,641]),('Monotonic structures',[496,739,901,84,239])]:
+            for title,ids in [('Matching and parsing',[20,71,150,394]),('Stack and queue simulation',[155,225,232]),('Circular buffers',[622,641]),('Monotonic structures',[496,503,739,901,84,239])]:
                 labels=[f"[{i}]({link(ROOT/by_id[i]['directory'],folder)})" for i in ids]
                 text+=f'| {title} | '+', '.join(labels)+' |\n'
         text += '\n## Learning Progression\n\n' + '\n'.join(f'{i}. {item}' for i,item in enumerate(topic['progression'],1))

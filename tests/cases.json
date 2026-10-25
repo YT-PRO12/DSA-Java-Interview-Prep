@@ -498,5 +498,9 @@
   {
     "source": "00-DSA-Roadmap/05-Hashing-and-Prefix-Sum/0349-Intersection-of-Two-Arrays/IntersectionOfTwoArrays.java",
     "test": "tests/cases/125-0349-Intersection-of-Two-Arrays.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0503-Next-Greater-Element-II/Solution.java",
+    "test": "tests/cases/126-0503-Next-Greater-Element-II.java"
   }
 ]
