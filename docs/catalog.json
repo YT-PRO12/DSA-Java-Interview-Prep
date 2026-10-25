@@ -943,6 +943,17 @@
       "provenance": "preserved"
     },
     {
+      "id": 503,
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/0503-Next-Greater-Element-II",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/0503-Next-Greater-Element-II/Solution.java",
+      "pattern": "Monotonic Stack / Circular Traversal",
+      "provenance": "added",
+      "verified_on": "2026-10-25"
+    },
+    {
       "id": 622,
       "title": "Design Circular Queue",
       "slug": "design-circular-queue",
