@@ -1492,6 +1492,16 @@
       "directory": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target",
       "solution": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1539,
+      "title": "Kth Missing Positive Number",
+      "difficulty": "Easy",
+      "pattern": "Binary Search / Missing Count",
+      "slug": "kth-missing-positive-number",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number/Solution.java",
+      "provenance": "added"
     }
   ]
 }

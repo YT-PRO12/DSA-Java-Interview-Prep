@@ -506,5 +506,9 @@
   {
     "source": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java",
     "test": "tests/cases/sprint-0744.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number/Solution.java",
+    "test": "tests/cases/sprint-1539.java"
   }
 ]
