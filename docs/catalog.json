@@ -1542,6 +1542,16 @@
       "directory": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List",
       "solution": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 658,
+      "title": "Find K Closest Elements",
+      "difficulty": "Medium",
+      "pattern": "Binary Search / Window Boundary",
+      "slug": "find-k-closest-elements",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0658-Find-K-Closest-Elements",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0658-Find-K-Closest-Elements/Solution.java",
+      "provenance": "added"
     }
   ]
 }

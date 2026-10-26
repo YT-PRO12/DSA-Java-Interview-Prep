@@ -526,5 +526,9 @@
   {
     "source": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List/Solution.java",
     "test": "tests/cases/sprint-1019.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0658-Find-K-Closest-Elements/Solution.java",
+    "test": "tests/cases/sprint-0658.java"
   }
 ]

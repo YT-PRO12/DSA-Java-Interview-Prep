@@ -32,6 +32,7 @@ Search sorted domains and monotone answer spaces using explicit boundary invaria
 | 15 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | Maximum feasible distance | [Java](1552-Magnetic-Force-Between-Two-Balls/Solution.java) |
 | 16 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | Upper Bound / Wraparound | [Java](0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java) |
 | 17 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | Binary Search / Missing Count | [Java](1539-Kth-Missing-Positive-Number/Solution.java) |
+| 18 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | Binary Search / Window Boundary | [Java](0658-Find-K-Closest-Elements/Solution.java) |
 
 ## Preserved Local Variants
 
