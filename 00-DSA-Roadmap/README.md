@@ -19,12 +19,12 @@ Follow the chapters in order, using each topic’s linked problem index, fundame
 | 09 | [Recursion](09-Recursion) | 2 | 3 | 5 |
 | 10 | [Backtracking](10-Backtracking) | 13 | 0 | 13 |
 | 11 | [Linked List](11-Linked-List) | 17 | 13 | 30 |
-| 12 | [Stacks and Queues](12-Stacks-and-Queues) | 14 | 0 | 16 |
+| 12 | [Stacks and Queues](12-Stacks-and-Queues) | 15 | 0 | 17 |
 | 13 | [Greedy](13-Greedy) | 9 | 0 | 9 |
 | 14 | [Heaps and Priority Queues](14-Heaps-and-Priority-Queues) | 7 | 1 | 8 |
 | 15 | [Binary Trees](15-Binary-Trees) | 10 | 0 | 10 |
 | 16 | [Binary Search Trees](16-Binary-Search-Trees) | 15 | 0 | 15 |
-| | **Total** | **150** | **40** | **197** |
+| | **Total** | **151** | **40** | **198** |
 
 ## Working Method
 

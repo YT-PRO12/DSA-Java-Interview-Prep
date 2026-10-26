@@ -1502,6 +1502,16 @@
       "directory": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number",
       "solution": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1047,
+      "title": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy",
+      "pattern": "Stack / Pair Cancellation",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/1047-Remove-All-Adjacent-Duplicates-In-String",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/1047-Remove-All-Adjacent-Duplicates-In-String/Solution.java",
+      "provenance": "added"
     }
   ]
 }
