@@ -534,5 +534,9 @@
   {
     "source": "00-DSA-Roadmap/07-Sliding-Window/1838-Frequency-of-the-Most-Frequent-Element/Solution.java",
     "test": "tests/cases/sprint-1838.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/Solution.java",
+    "test": "tests/cases/sprint-1438.java"
   }
 ]

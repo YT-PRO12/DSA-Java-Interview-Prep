@@ -1562,6 +1562,16 @@
       "directory": "00-DSA-Roadmap/07-Sliding-Window/1838-Frequency-of-the-Most-Frequent-Element",
       "solution": "00-DSA-Roadmap/07-Sliding-Window/1838-Frequency-of-the-Most-Frequent-Element/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1438,
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "difficulty": "Medium",
+      "pattern": "Sliding Window / Monotonic Deques",
+      "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/Solution.java",
+      "provenance": "added"
     }
   ]
 }
