@@ -1482,6 +1482,16 @@
       "solution": "00-DSA-Roadmap/13-Greedy/0045-Jump-Game-II/Solution.java",
       "pattern": "Greedy frontier",
       "provenance": "newly-prepared"
+    },
+    {
+      "id": 744,
+      "title": "Find Smallest Letter Greater Than Target",
+      "difficulty": "Easy",
+      "pattern": "Upper Bound / Wraparound",
+      "slug": "find-smallest-letter-greater-than-target",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java",
+      "provenance": "added"
     }
   ]
 }

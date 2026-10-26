@@ -502,5 +502,9 @@
   {
     "source": "00-DSA-Roadmap/12-Stacks-and-Queues/0503-Next-Greater-Element-II/Solution.java",
     "test": "tests/cases/126-0503-Next-Greater-Element-II.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java",
+    "test": "tests/cases/sprint-0744.java"
   }
 ]
