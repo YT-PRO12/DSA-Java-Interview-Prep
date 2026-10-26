@@ -1532,6 +1532,16 @@
       "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/2390-Removing-Stars-From-a-String",
       "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/2390-Removing-Stars-From-a-String/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1019,
+      "title": "Next Greater Node In Linked List",
+      "difficulty": "Medium",
+      "pattern": "Monotonic Stack / Next Greater",
+      "slug": "next-greater-node-in-linked-list",
+      "directory": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List/Solution.java",
+      "provenance": "added"
     }
   ]
 }

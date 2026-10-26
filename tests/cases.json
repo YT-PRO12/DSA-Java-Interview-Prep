@@ -522,5 +522,9 @@
   {
     "source": "00-DSA-Roadmap/12-Stacks-and-Queues/2390-Removing-Stars-From-a-String/Solution.java",
     "test": "tests/cases/sprint-2390.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List/Solution.java",
+    "test": "tests/cases/sprint-1019.java"
   }
 ]
