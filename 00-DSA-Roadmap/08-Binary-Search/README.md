@@ -30,6 +30,9 @@ Search sorted domains and monotone answer spaces using explicit boundary invaria
 | 13 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | Medium | Minimum feasible divisor | [Java](1283-Find-the-Smallest-Divisor-Given-a-Threshold/Solution.java) |
 | 14 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | Minimum feasible day | [Java](1482-Minimum-Number-of-Days-to-Make-m-Bouquets/Solution.java) |
 | 15 | 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | Maximum feasible distance | [Java](1552-Magnetic-Force-Between-Two-Balls/Solution.java) |
+| 16 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | Upper Bound / Wraparound | [Java](0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java) |
+| 17 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | Binary Search / Missing Count | [Java](1539-Kth-Missing-Positive-Number/Solution.java) |
+| 18 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | Binary Search / Window Boundary | [Java](0658-Find-K-Closest-Elements/Solution.java) |
 
 ## Preserved Local Variants
 

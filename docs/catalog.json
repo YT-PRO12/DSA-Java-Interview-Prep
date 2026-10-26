@@ -1482,6 +1482,96 @@
       "solution": "00-DSA-Roadmap/13-Greedy/0045-Jump-Game-II/Solution.java",
       "pattern": "Greedy frontier",
       "provenance": "newly-prepared"
+    },
+    {
+      "id": 744,
+      "title": "Find Smallest Letter Greater Than Target",
+      "difficulty": "Easy",
+      "pattern": "Upper Bound / Wraparound",
+      "slug": "find-smallest-letter-greater-than-target",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0744-Find-Smallest-Letter-Greater-Than-Target/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1539,
+      "title": "Kth Missing Positive Number",
+      "difficulty": "Easy",
+      "pattern": "Binary Search / Missing Count",
+      "slug": "kth-missing-positive-number",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/1539-Kth-Missing-Positive-Number/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1047,
+      "title": "Remove All Adjacent Duplicates In String",
+      "difficulty": "Easy",
+      "pattern": "Stack / Pair Cancellation",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/1047-Remove-All-Adjacent-Duplicates-In-String",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/1047-Remove-All-Adjacent-Duplicates-In-String/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1209,
+      "title": "Remove All Adjacent Duplicates in String II",
+      "difficulty": "Medium",
+      "pattern": "Stack / Run Counts",
+      "slug": "remove-all-adjacent-duplicates-in-string-ii",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/1209-Remove-All-Adjacent-Duplicates-in-String-II",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/1209-Remove-All-Adjacent-Duplicates-in-String-II/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 2390,
+      "title": "Removing Stars From a String",
+      "difficulty": "Medium",
+      "pattern": "Stack / Backspace Simulation",
+      "slug": "removing-stars-from-a-string",
+      "directory": "00-DSA-Roadmap/12-Stacks-and-Queues/2390-Removing-Stars-From-a-String",
+      "solution": "00-DSA-Roadmap/12-Stacks-and-Queues/2390-Removing-Stars-From-a-String/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1019,
+      "title": "Next Greater Node In Linked List",
+      "difficulty": "Medium",
+      "pattern": "Monotonic Stack / Next Greater",
+      "slug": "next-greater-node-in-linked-list",
+      "directory": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List",
+      "solution": "00-DSA-Roadmap/11-Linked-List/1019-Next-Greater-Node-In-Linked-List/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 658,
+      "title": "Find K Closest Elements",
+      "difficulty": "Medium",
+      "pattern": "Binary Search / Window Boundary",
+      "slug": "find-k-closest-elements",
+      "directory": "00-DSA-Roadmap/08-Binary-Search/0658-Find-K-Closest-Elements",
+      "solution": "00-DSA-Roadmap/08-Binary-Search/0658-Find-K-Closest-Elements/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1838,
+      "title": "Frequency of the Most Frequent Element",
+      "difficulty": "Medium",
+      "pattern": "Sorting / Sliding Window",
+      "slug": "frequency-of-the-most-frequent-element",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1838-Frequency-of-the-Most-Frequent-Element",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1838-Frequency-of-the-Most-Frequent-Element/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1438,
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "difficulty": "Medium",
+      "pattern": "Sliding Window / Monotonic Deques",
+      "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/Solution.java",
+      "provenance": "added"
     }
   ]
 }

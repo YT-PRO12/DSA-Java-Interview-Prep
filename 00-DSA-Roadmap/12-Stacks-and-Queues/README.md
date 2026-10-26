@@ -29,6 +29,9 @@ Use LIFO and FIFO state for parsing, simulation, circular buffers, and monotonic
 | 12 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium | Circular deque buffer | [Java](0641-Design-Circular-Deque/Solution.java) |
 | 13 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Monotonic stack | [Java](0739-Daily-Temperatures/Solution.java) |
 | 14 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Aggregated monotonic spans | [Java](0901-Online-Stock-Span/Solution.java) |
+| 15 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Stack / Pair Cancellation | [Java](1047-Remove-All-Adjacent-Duplicates-In-String/Solution.java) |
+| 16 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | Stack / Run Counts | [Java](1209-Remove-All-Adjacent-Duplicates-in-String-II/Solution.java) |
+| 17 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | Stack / Backspace Simulation | [Java](2390-Removing-Stars-From-a-String/Solution.java) |
 
 ## Preserved Local Variants
 

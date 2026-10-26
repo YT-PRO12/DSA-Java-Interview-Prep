@@ -32,6 +32,7 @@ Practice pointer changes with explicit ownership of next links, then build towar
 | 15 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Linked List In-Place Pointer Manipulation | [Java](0237-Delete-Node-in-a-Linked-List/DeleteNodeWithoutHead.java) |
 | 16 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Linked List Pointer Manipulation | [Java](0328-Odd-Even-Linked-List/OddEvenLinkedList.java) |
 | 17 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Slow and Fast Pointers | [Java](0876-Middle-of-the-Linked-List/FindMiddleOfLinkedList.java) |
+| 18 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | Medium | Monotonic Stack / Next Greater | [Java](1019-Next-Greater-Node-In-Linked-List/Solution.java) |
 
 ## Fundamentals
 

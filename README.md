@@ -25,17 +25,17 @@ A Java practice collection maintained by [Yatharth Goyal](https://github.com/YT-
 | 04 | [Sorting](00-DSA-Roadmap/04-Sorting) | 2 | 3 | 5 |
 | 05 | [Hashing and Prefix Sum](00-DSA-Roadmap/05-Hashing-and-Prefix-Sum) | 10 | 1 | 11 |
 | 06 | [Two Pointers](00-DSA-Roadmap/06-Two-Pointers) | 6 | 2 | 8 |
-| 07 | [Sliding Window](00-DSA-Roadmap/07-Sliding-Window) | 10 | 1 | 14 |
-| 08 | [Binary Search](00-DSA-Roadmap/08-Binary-Search) | 15 | 0 | 17 |
+| 07 | [Sliding Window](00-DSA-Roadmap/07-Sliding-Window) | 12 | 1 | 16 |
+| 08 | [Binary Search](00-DSA-Roadmap/08-Binary-Search) | 18 | 0 | 20 |
 | 09 | [Recursion](00-DSA-Roadmap/09-Recursion) | 2 | 3 | 5 |
 | 10 | [Backtracking](00-DSA-Roadmap/10-Backtracking) | 13 | 0 | 13 |
-| 11 | [Linked List](00-DSA-Roadmap/11-Linked-List) | 17 | 13 | 30 |
-| 12 | [Stacks and Queues](00-DSA-Roadmap/12-Stacks-and-Queues) | 14 | 0 | 16 |
+| 11 | [Linked List](00-DSA-Roadmap/11-Linked-List) | 18 | 13 | 31 |
+| 12 | [Stacks and Queues](00-DSA-Roadmap/12-Stacks-and-Queues) | 17 | 0 | 19 |
 | 13 | [Greedy](00-DSA-Roadmap/13-Greedy) | 9 | 0 | 9 |
 | 14 | [Heaps and Priority Queues](00-DSA-Roadmap/14-Heaps-and-Priority-Queues) | 7 | 1 | 8 |
 | 15 | [Binary Trees](00-DSA-Roadmap/15-Binary-Trees) | 10 | 0 | 10 |
 | 16 | [Binary Search Trees](00-DSA-Roadmap/16-Binary-Search-Trees) | 15 | 0 | 15 |
-| | **Total** | **148** | **40** | **195** |
+| | **Total** | **157** | **40** | **204** |
 
 Each LeetCode ID has one canonical folder. Java-file totals also include the retained variants; fundamentals are counted separately. Topic READMEs link both official problem statements and the actual Java implementations.
 
