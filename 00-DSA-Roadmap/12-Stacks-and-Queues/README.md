@@ -31,6 +31,7 @@ Use LIFO and FIFO state for parsing, simulation, circular buffers, and monotonic
 | 14 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Aggregated monotonic spans | [Java](0901-Online-Stock-Span/Solution.java) |
 | 15 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Stack / Pair Cancellation | [Java](1047-Remove-All-Adjacent-Duplicates-In-String/Solution.java) |
 | 16 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | Stack / Run Counts | [Java](1209-Remove-All-Adjacent-Duplicates-in-String-II/Solution.java) |
+| 17 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | Stack / Backspace Simulation | [Java](2390-Removing-Stars-From-a-String/Solution.java) |
 
 ## Preserved Local Variants
 
