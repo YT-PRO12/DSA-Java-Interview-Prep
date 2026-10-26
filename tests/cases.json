@@ -530,5 +530,9 @@
   {
     "source": "00-DSA-Roadmap/08-Binary-Search/0658-Find-K-Closest-Elements/Solution.java",
     "test": "tests/cases/sprint-0658.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/07-Sliding-Window/1838-Frequency-of-the-Most-Frequent-Element/Solution.java",
+    "test": "tests/cases/sprint-1838.java"
   }
 ]

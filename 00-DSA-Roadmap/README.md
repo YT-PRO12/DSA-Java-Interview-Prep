@@ -14,7 +14,7 @@ Follow the chapters in order, using each topic’s linked problem index, fundame
 | 04 | [Sorting](04-Sorting) | 2 | 3 | 5 |
 | 05 | [Hashing and Prefix Sum](05-Hashing-and-Prefix-Sum) | 10 | 1 | 11 |
 | 06 | [Two Pointers](06-Two-Pointers) | 6 | 2 | 8 |
-| 07 | [Sliding Window](07-Sliding-Window) | 10 | 1 | 14 |
+| 07 | [Sliding Window](07-Sliding-Window) | 11 | 1 | 15 |
 | 08 | [Binary Search](08-Binary-Search) | 18 | 0 | 20 |
 | 09 | [Recursion](09-Recursion) | 2 | 3 | 5 |
 | 10 | [Backtracking](10-Backtracking) | 13 | 0 | 13 |
@@ -24,7 +24,7 @@ Follow the chapters in order, using each topic’s linked problem index, fundame
 | 14 | [Heaps and Priority Queues](14-Heaps-and-Priority-Queues) | 7 | 1 | 8 |
 | 15 | [Binary Trees](15-Binary-Trees) | 10 | 0 | 10 |
 | 16 | [Binary Search Trees](16-Binary-Search-Trees) | 15 | 0 | 15 |
-| | **Total** | **155** | **40** | **202** |
+| | **Total** | **156** | **40** | **203** |
 
 ## Working Method
 
