@@ -538,5 +538,9 @@
   {
     "source": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/Solution.java",
     "test": "tests/cases/sprint-1438.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/07-Sliding-Window/1658-Minimum-Operations-to-Reduce-X-to-Zero/Solution.java",
+    "test": "tests/cases/sprint-2026-10-28-1658.java"
   }
 ]
