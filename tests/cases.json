@@ -550,5 +550,9 @@
   {
     "source": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/Solution.java",
     "test": "tests/cases/sprint-2026-10-28-1456.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/07-Sliding-Window/1423-Maximum-Points-You-Can-Obtain-from-Cards/Solution.java",
+    "test": "tests/cases/sprint-2026-10-28-1423.java"
   }
 ]

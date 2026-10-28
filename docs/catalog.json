@@ -1602,6 +1602,16 @@
       "directory": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length",
       "solution": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1423,
+      "title": "Maximum Points You Can Obtain from Cards",
+      "difficulty": "Medium",
+      "pattern": "Prefix-Suffix Split / Sliding Window",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1423-Maximum-Points-You-Can-Obtain-from-Cards",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1423-Maximum-Points-You-Can-Obtain-from-Cards/Solution.java",
+      "provenance": "added"
     }
   ]
 }
