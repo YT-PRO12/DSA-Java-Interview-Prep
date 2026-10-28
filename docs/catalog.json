@@ -1572,6 +1572,46 @@
       "directory": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit",
       "solution": "00-DSA-Roadmap/07-Sliding-Window/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1658,
+      "title": "Minimum Operations to Reduce X to Zero",
+      "difficulty": "Medium",
+      "pattern": "Complement / Variable Sliding Window",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1658-Minimum-Operations-to-Reduce-X-to-Zero",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1658-Minimum-Operations-to-Reduce-X-to-Zero/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "pattern": "Multiplicative Sliding Window",
+      "slug": "subarray-product-less-than-k",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1456,
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "difficulty": "Medium",
+      "pattern": "Fixed Sliding Window / Character Counting",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/Solution.java",
+      "provenance": "added"
+    },
+    {
+      "id": 1423,
+      "title": "Maximum Points You Can Obtain from Cards",
+      "difficulty": "Medium",
+      "pattern": "Prefix-Suffix Split / Sliding Window",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1423-Maximum-Points-You-Can-Obtain-from-Cards",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1423-Maximum-Points-You-Can-Obtain-from-Cards/Solution.java",
+      "provenance": "added"
     }
   ]
 }

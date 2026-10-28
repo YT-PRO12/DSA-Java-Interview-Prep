@@ -27,6 +27,10 @@ Reuse work as a contiguous range expands and contracts. Covers fixed windows, fr
 | 10 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | At-most-k zero window | [Java](1004-Max-Consecutive-Ones-III/MaxConsecutiveOnesIII.java) |
 | 11 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | Sorting / Sliding Window | [Java](1838-Frequency-of-the-Most-Frequent-Element/Solution.java) |
 | 12 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium | Sliding Window / Monotonic Deques | [Java](1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/Solution.java) |
+| 13 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | Complement / Variable Sliding Window | [Java](1658-Minimum-Operations-to-Reduce-X-to-Zero/Solution.java) |
+| 14 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | Multiplicative Sliding Window | [Java](0713-Subarray-Product-Less-Than-K/Solution.java) |
+| 15 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | Fixed Sliding Window / Character Counting | [Java](1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/Solution.java) |
+| 16 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Medium | Prefix-Suffix Split / Sliding Window | [Java](1423-Maximum-Points-You-Can-Obtain-from-Cards/Solution.java) |
 
 ## Fundamentals
 
