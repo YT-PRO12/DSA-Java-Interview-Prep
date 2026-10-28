@@ -1582,6 +1582,16 @@
       "directory": "00-DSA-Roadmap/07-Sliding-Window/1658-Minimum-Operations-to-Reduce-X-to-Zero",
       "solution": "00-DSA-Roadmap/07-Sliding-Window/1658-Minimum-Operations-to-Reduce-X-to-Zero/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 713,
+      "title": "Subarray Product Less Than K",
+      "difficulty": "Medium",
+      "pattern": "Multiplicative Sliding Window",
+      "slug": "subarray-product-less-than-k",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K/Solution.java",
+      "provenance": "added"
     }
   ]
 }

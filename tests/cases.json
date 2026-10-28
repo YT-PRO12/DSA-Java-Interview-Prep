@@ -542,5 +542,9 @@
   {
     "source": "00-DSA-Roadmap/07-Sliding-Window/1658-Minimum-Operations-to-Reduce-X-to-Zero/Solution.java",
     "test": "tests/cases/sprint-2026-10-28-1658.java"
+  },
+  {
+    "source": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K/Solution.java",
+    "test": "tests/cases/sprint-2026-10-28-0713.java"
   }
 ]
