@@ -1592,6 +1592,16 @@
       "directory": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K",
       "solution": "00-DSA-Roadmap/07-Sliding-Window/0713-Subarray-Product-Less-Than-K/Solution.java",
       "provenance": "added"
+    },
+    {
+      "id": 1456,
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "difficulty": "Medium",
+      "pattern": "Fixed Sliding Window / Character Counting",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "directory": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length",
+      "solution": "00-DSA-Roadmap/07-Sliding-Window/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/Solution.java",
+      "provenance": "added"
     }
   ]
 }
