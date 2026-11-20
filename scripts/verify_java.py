@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compile isolated solutions, run prepared regression cases and existing demos."""
+"""Compile isolated roadmap and practice solutions; execute regression cases and demos."""
 import argparse
 import concurrent.futures
 import json
@@ -59,7 +59,10 @@ def main():
     if not javac or not java:
         parser.error('Install JDK 17 or newer and put javac/java on PATH, or set JAVA_HOME.')
     cases = {item['source']: item['test'] for item in json.loads((ROOT / 'tests/cases.json').read_text())}
-    sources = sorted((ROOT / '00-DSA-Roadmap').rglob('*.java'))
+    sources = sorted(
+        list((ROOT / '00-DSA-Roadmap').rglob('*.java'))
+        + list((ROOT / 'practice').rglob('*.java'))
+    )
     if args.new_only:
         sources = [source for source in sources if source.relative_to(ROOT).as_posix() in cases]
     outcomes, errors = [], []
