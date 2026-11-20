@@ -45,7 +45,7 @@ def verify(source, cases, javac, java):
         if has_main:
             # Practice file names include a numeric LeetCode prefix; Java class names do not.
             entry_class = source.stem
-            if relative.startswith('practice/') and re.match(r'^\\d{4}-', entry_class):
+            if relative.startswith('practice/') and entry_class[:4].isdigit() and entry_class[4:5] == '-':
                 entry_class = entry_class.split('-', 1)[1]
             command([java, '-cp', temporary, entry_class])
         return relative, has_case, has_main
