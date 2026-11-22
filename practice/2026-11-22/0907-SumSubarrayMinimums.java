@@ -1,9 +1,10 @@
 import java.util.ArrayDeque;
 
 /** LeetCode 907: Sum of Subarray Minimums.
- * Pop when the current value is strictly smaller, or at the sentinel end.
- * Popped position m contributes to (m-left)*(right-m) subarrays; using >=
- * consistently assigns equal minima to one position and avoids double-counts.
+ * Pop when the next value is less than or equal to the stack top, or
+ * when the end sentinel is reached. Each popped position m contributes to
+ * (m-left)*(right-m) subarrays; the >= tie rule assigns equal minima to
+ * one position consistently and avoids double-counting.
  * Time O(n), stack O(n).
  */
 class SumSubarrayMinimums {
